@@ -1,4 +1,4 @@
-# Haunted Hunters - Series Arc Map
+# Obsidian Frequency - Series Arc Map
 
 ## Arc 1: The Opening Chapter
 

@@ -7,7 +7,7 @@ Live Content System
 
 # Overview
 
-Seasonal events introduce time-limited content into the Haunted Hunters universe.
+Seasonal events introduce time-limited content into the Obsidian Frequency universe.
 
 These events provide:
 - exclusive entities

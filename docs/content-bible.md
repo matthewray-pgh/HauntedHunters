@@ -1,4 +1,4 @@
-# Haunted Hunters — YouTube Content Bible
+# Obsidian Frequency — YouTube Content Bible
 ## Version 1.0 | Internal Reference Document
 
 ---
@@ -6,7 +6,7 @@
 # Channel Identity
 
 ## Channel Name
-Haunted Hunters
+Obsidian Frequency
 
 ## Tagline
 *"They didn't want this found."*
@@ -19,7 +19,7 @@ The channel exists because someone on the inside is leaking it.
 
 # The Premise
 
-The Haunted Hunters YouTube channel presents itself as a repository of leaked, recovered, and declassified Directorate materials — assembled and released by an anonymous insider known only as **THE ARCHIVIST**.
+The Obsidian Frequency YouTube channel presents itself as a repository of leaked, recovered, and declassified Directorate materials — assembled and released by an anonymous insider known only as **THE ARCHIVIST**.
 
 The Archivist does not appear on camera.
 The Archivist does not explain themselves.
@@ -257,12 +257,12 @@ The audience that stays is the audience worth keeping.
 
 # The Final Rule
 
-> *The channel is not about Haunted Hunters.*
+> *The channel is not about Obsidian Frequency.*
 
 ---
 
 # Related Planning
 
 For episode sequencing, hidden fragment tracking, and release-order planning, see [docs/series-arc-map.md](docs/series-arc-map.md).
-> *The channel IS Haunted Hunters.*
+> *The channel IS Obsidian Frequency.*
 > *Every video is evidence. Every viewer is a witness.*

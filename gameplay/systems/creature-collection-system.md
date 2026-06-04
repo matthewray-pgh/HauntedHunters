@@ -7,7 +7,7 @@ Core Progression System
 
 # Overview
 
-Haunted Hunters features a creature and entity collection system.
+Obsidian Frequency features a creature and entity collection system.
 
 Instead of only defeating monsters, players:
 - document them

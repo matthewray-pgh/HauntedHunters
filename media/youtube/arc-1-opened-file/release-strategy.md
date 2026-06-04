@@ -1,4 +1,4 @@
-# Haunted Hunters - Release Strategy
+# Obsidian Frequency - Release Strategy
 
 ## Arc 1: The Opened File
 
@@ -8,7 +8,7 @@
 
 # Philosophy
 
-Haunted Hunters is not a content volume play.
+Obsidian Frequency is not a content volume play.
 It is a world-building play.
 
 The goal is not to post frequently.
@@ -96,9 +96,9 @@ Titles should read like file labels, not video titles.
 
 ### Plain Format (for algorithm searchability)
 
-`The Black Vein Collapse | Haunted Hunters Lore`
-`The Conductor | Entity File #013 | Haunted Hunters`
-`The Directorate Factions Explained | Haunted Hunters`
+`The Black Vein Collapse | Obsidian Frequency Lore`
+`The Conductor | Entity File #013 | Obsidian Frequency`
+`The Directorate Factions Explained | Obsidian Frequency`
 
 ## Recommendation
 
@@ -130,7 +130,7 @@ Every thumbnail must contain:
 - A document header or file label
 - One visual element (photograph, map fragment, or entity silhouette)
 - A redaction bar (at least one)
-- The Haunted Hunters channel watermark (worn, stamped - never clean)
+- The Obsidian Frequency channel watermark (worn, stamped - never clean)
 
 ## Color Treatment
 
@@ -181,7 +181,7 @@ It is additional Archivist material.
 All materials sourced from recovered Directorate archives.
 Distribution of this content is unauthorized.
 
-#HauntedHunters #ParanormalLore #AnalogHorror
+#ObsidianFrequency #ParanormalLore #AnalogHorror
 ```
 
 ## Example - Video 03
@@ -199,7 +199,7 @@ This file was scheduled for permanent suppression.
 All materials sourced from recovered Directorate archives.
 Distribution of this content is unauthorized.
 
-#HauntedHunters #ParanormalLore #AnalogHorror
+#ObsidianFrequency #ParanormalLore #AnalogHorror
 ```
 
 ## Tags Strategy
@@ -209,7 +209,7 @@ Use specific discoverable tags alongside branded tags:
 - `#AnalogHorror` - active community, strong engagement
 - `#ParanormalLore` - search-discoverable
 - `#LoreVideo` - connects to wider lore community
-- `#HauntedHunters` - branded, builds over time
+- `#ObsidianFrequency` - branded, builds over time
 - `#ARG` - once ARG elements become community-known (do not use until Video 05+)
 
 ---
@@ -297,7 +297,7 @@ Catches both US afternoon and UK evening audiences simultaneously.
 ## Playlists
 
 Organize Arc 1 into a playlist immediately on launch.
-Title: `Arc 1: The Opened File - Haunted Hunters`
+Title: `Arc 1: The Opened File - Obsidian Frequency`
 Description: in-world, consistent with channel voice.
 Playlists increase session time - viewers auto-play the next video.
 
@@ -405,7 +405,7 @@ Viewers need to be invested in the world before they will pay for deeper access.
 ## Future Revenue Paths
 
 - **Merch:** Directorate document prints, classification stamps, field operative ID cards
-- **Game integration:** Channel functions as primary marketing for the Haunted Hunters game
+- **Game integration:** Channel functions as primary marketing for the Obsidian Frequency game
 - **Licensing:** Lore available to companion podcast, audio drama, or tabletop adaptation
 
 ---

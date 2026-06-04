@@ -7,7 +7,7 @@ Canon Creative Foundation
 
 # Core Identity
 
-Haunted Hunters is defined by a distinct blend of industrial decay and paranormal intrusion.
+Obsidian Frequency is defined by a distinct blend of industrial decay and paranormal intrusion.
 
 The universe is not traditional horror, fantasy, or supernatural mythology.
 

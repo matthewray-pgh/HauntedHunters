@@ -1,4 +1,4 @@
-# Haunted Hunters - Visual Style Guide
+# Obsidian Frequency - Visual Style Guide
 
 ## AI Image Generation Reference & Brand Direction
 
@@ -8,7 +8,7 @@
 
 ## What This World Looks Like
 
-Haunted Hunters is not Gothic Victorian horror.
+Obsidian Frequency is not Gothic Victorian horror.
 It is not haunted mansions, wrought iron gates, or top hats.
 
 It is:
@@ -65,7 +65,7 @@ It should appear worn and stamped, never clean or glossy.
 - Fantasy creature aesthetics
 - Clean, polished environments
 
-## In - The Haunted Hunters Visual World
+## In - The Obsidian Frequency Visual World
 
 ### Primary Environment Types
 

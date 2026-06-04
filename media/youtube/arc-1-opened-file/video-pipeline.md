@@ -1,8 +1,26 @@
-# Haunted Hunters - Video Pipeline
+# Obsidian Frequency - Video Pipeline
 
-## Arc 1: The Opened File
+## Arc 1: The Opened File (Revised)
 
-### Production Reference Document
+### Production Reference Document - v2.0
+
+---
+
+# Revision Notes
+
+## Changes from v1.0
+
+- All video runtimes revised to 6-8 minute target
+
+- Video 07 (Directorate Factions) split into three separate videos - one per faction
+
+- HH-016 The Miner's Echo added as second entity video after Black Vein
+
+- Arc 1 expanded to 13 videos total
+
+- First Phantom seed map expanded to cover all 13 videos
+
+- Recommended production order updated
 
 ---
 
@@ -10,537 +28,881 @@
 
 ## Runtime Target
 
-Ideal finished video length. 8-12 minutes hits the YouTube ad revenue sweet spot while maintaining tension.
+6-8 minutes is the standard target across all Arc 1 videos.
+This hits the YouTube mid-roll ad threshold while respecting new viewer attention.
+Video 10 (File Zero) is the only exception - 4-6 minutes, restraint is the point.
 
 ## Production Complexity
 
 Rated 1-5.
 
-- **1** - Document visuals + narration only. Minimal editing.
-- **2** - Document visuals + ambient sound design + narration.
-- **3** - Multiple visual layers + sound design + narration + some motion graphics.
-- **4** - Recovered footage simulation + heavy sound design + degradation effects.
-- **5** - Full cinematic treatment. Maximum post-production.
+- **1** - Document visuals + narration only
 
-## Assets Required
+- **2** - Document visuals + ambient sound design + narration
 
-Everything you need to make the video before you open your editor.
+- **3** - Multiple visual layers + sound design + AI imagery + some motion graphics
 
-## Lore Dependencies
+- **4** - Recovered footage simulation + heavy sound design + degradation effects
 
-What must exist in canon before this video can be made accurately.
+- **5** - Full cinematic treatment - maximum post-production
+
+## Word Count Guide
+
+At 100-120 words per minute (slow, deliberate narration pace):
+
+- 6 minutes = ~600-720 words
+
+- 7 minutes = ~700-840 words
+
+- 8 minutes = ~800-960 words
+
+Write scripts to word count, not to time. Time will follow.
+
+---
+
+# Arc 1 - Full Video Roster
+
+#
+Title
+Pillar
+Runtime
+Complexity
+Phantom Seed
+
+01
+The Veil Explained
+World Intro
+6-7 min
+2/5
+File number 0000
+
+02
+HH-013: The Conductor
+Entity File
+6-8 min
+3/5
+Crossed-out line
+
+03
+The Black Vein Collapse
+Incident Report
+7-8 min
+3/5
+"Already there"
+
+04
+HH-016: The Miner's Echo
+Entity File
+6-7 min
+2/5
+Missing personnel number
+
+05
+The Ashfall Experiments
+Incident Report
+6-7 min
+4/5
+Unlabeled room
+
+06
+Station 13: The Full Incident
+Incident Report
+7-8 min
+3/5
+Subsonic frequency
+
+07
+The Hollow King
+Entity File
+6-7 min
+3/5
+Redacted predecessor
+
+08
+The Wardens
+Directorate Intel
+6-7 min
+2/5
+Shared signatory - part 1
+
+09
+The Architects
+Directorate Intel
+6-7 min
+2/5
+Shared signatory - part 2
+
+10
+The Threshold Initiative
+Directorate Intel
+6-7 min
+2/5
+Shared signatory - part 3
+
+11
+Recovered Log: Echo-4
+Recovered Log
+6-8 min
+5/5
+Background figure
+
+12
+The Timeline Has a Gap
+Intel / ARG Setup
+6-7 min
+2/5
+Blank dated entry
+
+13
+File Zero
+ARG Payoff
+4-6 min
+3/5
+The document itself
+
+---
+
+# First Phantom Seed Map - Revised
+
+Video
+Hidden Reference
+
+01
+Personnel file number 0000 in document corner. No name. No clearance level.
+
+02
+One line crossed out in ink on The Conductor's classification document. Too blurred to read.
+
+03
+Survivor testimony card: "It was already there before we broke through." No follow-up.
+
+04
+Missing personnel number in Black Vein excavation crew manifest. The number skips. No explanation.
+
+05
+Ashfall facility map - one room unlabeled, door drawn open.
+
+06
+Station 13 audio recording contains subsonic frequency. 0.3 seconds. Unidentified.
+
+07
+Hollow King entity file footnote references redacted predecessor entity. Redaction bar too short - one letter visible.
+
+08
+Wardens charter document - redacted signatory. First appearance.
+
+09
+Architects charter document - same redacted signatory. Same length. Same position.
+
+10
+Threshold Initiative charter - same redacted signatory. All three factions. One author.
+
+11
+Recovered photograph during Red Platform section - figure in background, one frame only.
+
+12
+Blank pre-1968 timeline entry. A date. No content. Not redacted - never filled in.
+
+13
+The confirmation document. One unredacted line. This video IS the seed.
 
 ---
 
 # Video 01 - The Veil Explained
 
-## Runtime Target: 8-10 min | Complexity: 2/5
+## Runtime: 6-7 min | Complexity: 2/5 | Word Count: ~650-800
+
+### One Job
+
+Make the viewer feel like they found something they were not supposed to find.
+Do not introduce everything. Introduce The Veil and why it matters.
+
+### Content Outline
+
+- What the Veil is - Directorate definition, clinical language (2 min)
+
+- What Veil Breaches are - severity levels I through V (2 min)
+
+- What the Hunters Directorate is - brief, cold, one paragraph only (1 min)
+
+- What Hunters are - expendable but valuable, closing statement (1 min)
+
+- Archivist annotation close (30 sec)
+
+### What Gets Cut vs V1.0
+
+Full Directorate history removed - that belongs in faction videos.
+Focus tightens to The Veil phenomenon only.
 
 ### Assets Required
 
 - Directorate orientation document
-- CRT monitor / scan line overlay
-- Ambient industrial drone track
-- Archivist annotation cards
-- Personnel file with number 0000 in corner
 
-### Visual Approach
+- CRT overlay
 
-Document fills frame. Slow pan or scroll. CRT overlay throughout.
-Color grade: deep green / amber. No exterior footage cuts.
+- Ambient industrial drone
 
-### Narration Style
+- Archivist annotation card
 
-Clinical. Slow. No inflection on dramatic lines.
-Read as if presenting evidence, not telling a story.
-
-### Sound Design
-
-- Ambient industrial drone (low, continuous)
-- Subtle electrical hum
-- Single page turn at section breaks
-- No music
-
-### Lore Dependencies
-
-- The Veil ✓ | Veil Breaches ✓ | The Hunters Directorate ✓ | Hunter classifications ✓
-
-### Production Notes
-
-Restraint is the entire production philosophy here.
-Do not over-edit. Do not add unnecessary motion.
-If in doubt - do less.
-The goal is not to impress. The goal is to feel real.
+- Personnel file with 0000 visible
 
 ### First Phantom Seed
 
-Personnel file 0000 bottom-right corner of document header.
-No name field. No clearance level. Camera does not zoom. Does not linger.
+Personnel file 0000 - bottom right corner of document header.
+No name. No clearance. Camera does not zoom or linger.
 
 ---
 
 # Video 02 - HH-013: The Conductor
 
-## Runtime Target: 10-12 min | Complexity: 3/5
+## Runtime: 6-8 min | Complexity: 3/5 | Word Count: ~700-900
+
+### One Job
+
+Introduce the entity file format. Seed Station 13 without explaining it.
+Make the audience afraid of train sounds.
+
+### Content Outline
+
+- Entity classification read-aloud (2 min)
+
+- Known behaviors and environmental effects (2 min)
+
+- Recovered audio fragment - distorted transit announcement (1 min)
+
+- Echo-4 referenced - fate withheld (1 min)
+
+- Archivist annotation close (30 sec)
+
+### What Gets Cut vs V1.0
+
+Station 13 context trimmed to a single reference.
+Full incident explanation saved for Video 06.
 
 ### Assets Required
 
 - HH-013 entity classification document
-- Transit system ambient recordings
-- Distorted PA announcement audio
-- VHS surveillance footage aesthetic overlays
-- Phantom train sound (distant, approaching, never arriving)
-- Flickering light video element
 
-### Visual Approach
+- Transit ambient audio
 
-Opens on entity document. Transitions to simulated surveillance footage with visible timestamp.
-Return to document for classification details. End on static.
+- Distorted PA announcement
 
-### Narration Style
+- VHS surveillance overlay
 
-Clinical throughout. Pause three full seconds before and after "Do not board the final train."
-
-### Sound Design
-
-- Transit ambient (echoing station, distant mechanical)
-- Distorted PA announcement (almost intelligible - never fully clear)
-- Phantom train approach (builds, never arrives, cuts to silence)
-- Signal degradation on cut points
-
-### Lore Dependencies
-
-- HH-013 The Conductor ✓ | Station 13 (reference only) ✓ | Echo-4 (reference only, fate withheld) ✓
-
-### Production Notes
-
-Audio design carries this video. The phantom train should feel like it is getting closer throughout.
-Never let it arrive. Cut before it does every time.
-This conditions the audience to feel dread at train sounds - use that in Videos 05 and 08.
+- Phantom train sound
 
 ### First Phantom Seed
 
-One line crossed out in physical ink on the classification document.
-Filmed slightly out of focus. Long enough to notice. Not long enough to read.
+Classification document - one line crossed out in ink. Filmed slightly out of focus.
 
 ---
 
 # Video 03 - The Black Vein Collapse
 
-## Runtime Target: 12-15 min | Complexity: 3/5
+## Runtime: 7-8 min | Complexity: 3/5 | Word Count: ~750-900
+
+### One Job
+
+Establish 1968 as the foundational trauma of the Directorate.
+Seed subterranean horror without naming specific entities.
+
+### Content Outline
+
+- The excavation - what crews found (2 min)
+
+- The disappearances - clinical accounting (1.5 min)
+
+- Three survivor testimony cards - silent, text only (1 min)
+
+- Federal recovery and Directorate formation (1.5 min)
+
+- Current status and Archivist annotation (1 min)
+
+### What Gets Cut vs V1.0
+
+Reduced from five survivor cards to three - pick the most disturbing.
+Hollow King and Carapax Prawn references kept but unnamed.
 
 ### Assets Required
 
 - Classified incident report (multi-page)
-- Survivor testimony cards (typewritten aesthetic)
-- Mining ambient sound design
-- Archival grain / damage filter
-- Hand-drawn excavation map (partially incomplete)
-- Federal recovery team dispatch document
 
-### Visual Approach
+- Three survivor testimony cards
 
-Incident report cover page opens - classification stamp prominent.
-Survivor testimony displayed as silent text cards, not narrated.
-Excavation map shown briefly - key sections illegible.
-Final frame: single light source in darkness. Cut to black.
+- Mining ambient sound
 
-### Narration Style
+- Archival grain filter
 
-Slower than previous videos. Pause on casualty numbers.
-Federal recovery section read without inflection - clinical accounting of horror.
-
-### Sound Design
-
-- Mining ambient throughout (beneath narration, never loud)
-- Distant structural collapse at disappearance section
-- Complete silence during survivor testimony cards
-- Single tone on final frame before cut to black
-
-### Lore Dependencies
-
-- Black Vein Collapse ✓ | Directorate formation ✓
-- Hollow King ✓ - reference as "subterranean presence," do not name
-- Carapax Prawn ✓ - reference as "biological anomaly," do not name
-
-### Production Notes
-
-Survivor testimony cards displayed silently are more powerful than narrated.
-Displaying them makes the viewer the reader. Protect that shift in agency.
+- Hand-drawn excavation map
 
 ### First Phantom Seed
 
-One testimony card reads: "It was already there before we broke through. Whatever it was - it was waiting."
-On screen four seconds. No narration over it. Moves on without comment.
+One testimony card: "It was already there before we broke through."
+Four seconds on screen. No narration over it.
 
 ---
 
-# Video 04 - The Ashfall Experiments
+# Video 04 - HH-016: The Miner's Echo
 
-## Runtime Target: 10-12 min | Complexity: 4/5
+## Runtime: 6-7 min | Complexity: 2/5 | Word Count: ~650-800
+
+### One Job
+
+First entity directly connected to an established incident.
+Deepen the Black Vein mythology immediately after establishing it.
+Introduce sound-sensitive entity mechanic.
+
+### Why Here
+
+Placing this immediately after Black Vein creates a one-two punch -
+the incident establishes the horror, the entity file shows what survived it.
+
+### Content Outline
+
+- Entity classification and origin (1.5 min)
+
+- Loop behavior description - what it does and why (2 min)
+
+- Sound sensitivity - the danger explained (1.5 min)
+
+- Hunter notes and capture window (1 min)
+
+- Archivist annotation close (30 sec)
+
+### Assets Required
+
+- HH-016 entity classification document
+
+- Mining ambient (consistent with Video 03 - continuity)
+
+- Distant pickaxe strike sound
+
+- Archivist annotation card
+
+### Production Notes
+
+Audio continuity with Video 03 is important.
+The audience should recognize the mine sounds and feel the connection immediately.
+This is the first time a video directly rewards watching the previous one.
+
+### First Phantom Seed
+
+Black Vein excavation crew manifest shown briefly.
+Personnel numbers listed sequentially - one number is missing from the sequence.
+No annotation. No zoom. The skip is simply there.
+
+---
+
+# Video 05 - The Ashfall Experiments
+
+## Runtime: 6-7 min | Complexity: 4/5 | Word Count: ~650-750
+
+### One Job
+
+Shift from external horror to internal horror.
+The Directorate caused something. Someone approved it.
+
+### Content Outline
+
+- Project overview and facility description (1.5 min)
+
+- Activation event - what happened (1.5 min)
+
+- Recovery team reports - repeating corridors, faceless personnel (1.5 min)
+
+- Current status: facility lost (1 min)
+
+- Archivist annotation - "Someone approved this. I haven't found who. Yet." (30 sec)
+
+### What Gets Cut vs V1.0
+
+Modern Directorate technology connection removed - too much for 6-7 min.
+Casualty section tightened to one line: "Unknown. Records erased."
 
 ### Assets Required
 
 - Ashfall project file (heavily redacted)
-- Facility map (one room unlabeled, door drawn open)
-- Degraded audio log fragment (voice partially intelligible)
-- Static interference video overlay (progressive severity)
-- Real-time redaction bar animation system
 
-### Visual Approach
+- Facility map (one unlabeled room, door open)
 
-Opens clean - document readable. As video progresses, redaction bars appear over previously visible text.
-By midpoint the document is being redacted in real time as the audience watches.
-End on facility map - camera holds on unlabeled room. Cuts.
+- Degraded audio log fragment
 
-### Narration Style
+- Static interference overlay (progressive)
 
-First half: standard clinical. After activation event: slower, longer pauses.
-The Archivist is disturbed. This should be felt in pacing - not stated.
-
-### Sound Design
-
-- Subterranean ambient (deeper, more oppressive than Black Vein)
-- Audio log: heavy tape degradation (audible words only: "corridors," "same," "faces," "wrong")
-- Static interference builds continuously from midpoint
-- Redaction bars: subtle paper-over-paper sound on appearance
-
-### Lore Dependencies
-
-- Ashfall Experiments ✓ | The Architects (implied, not named yet) ✓ | Directorate internal conflict ✓
-
-### Production Notes
-
-The real-time redaction effect is the centrepiece of this video - most-clipped moment of Arc 1.
-Plan this effect carefully. It needs to feel like active suppression.
-Audio log words must be audible enough to disturb, never enough to form a complete sentence.
+- Real-time redaction bar animation
 
 ### First Phantom Seed
 
 Facility map at end. One room - no label. Door drawn open.
-All other rooms labeled and closed. Camera holds six seconds. Cuts without comment.
+Camera holds six seconds. Cuts without comment.
 
 ---
 
-# Video 05 - Station 13: The Full Incident
+# Video 06 - Station 13: The Full Incident
 
-## Runtime Target: 12-14 min | Complexity: 3/5
+## Runtime: 7-8 min | Complexity: 3/5 | Word Count: ~750-900
+
+### One Job
+
+Pay off the Station 13 thread seeded in Video 02.
+Introduce The Red Platform as a mystery held for Video 11.
+
+### Content Outline
+
+- Discovery - undocumented station, worker disappearances (2 min)
+
+- System activation and city-wide hallucinations (1.5 min)
+
+- Echo-4 deployment - what they were told (1 min)
+
+- Recovered fragments - what the recordings contain (1.5 min)
+
+- The Red Platform - referenced in maps, unverified (1 min)
+
+- Archivist annotation close (30 sec)
 
 ### Assets Required
 
-- Station 13 incident report (multi-page)
-- Transit expansion crew dispatch log
+- Station 13 incident report
+
 - Echo-4 deployment orders
-- Fragmented Echo-4 comms audio (degraded)
-- Hand-drawn maps referencing The Red Platform (incomplete, location unclear)
 
-### Visual Approach
+- Fragmented comms audio
 
-Incident report opens. Echo-4 audio fragments play under document visuals.
-Maps shown briefly - Red Platform label visible, location unclear.
-End on Echo-4 final audio fragment cutting to silence mid-sentence.
+- Red Platform reference maps
 
-### Narration Style
-
-Standard clinical pace. Read Echo-4 deployment orders as routine.
-They were routine. That is the horror.
-
-### Sound Design
-
-- Transit ambient (consistent with Video 02 - audience recognizes it)
-- Echo-4 comms: radio crackle, fragments, one clear word: "platform"
-- Phantom train motif (returning - audience will feel it)
-- Final fragment ends mid-sentence. Silence.
-
-### Lore Dependencies
-
-- Station 13 Incident ✓ | HH-013 The Conductor ✓ | Echo-4 ✓
-- The Red Platform - establish as unverified, location unknown
-
-### Production Notes
-
-The Red Platform should feel like a detail that slipped through, not a revelation.
-Let the audience make it a revelation themselves. That is more powerful.
+- Transit ambient (consistent with Video 02)
 
 ### First Phantom Seed
 
-Echo-4 audio contains a subsonic frequency - 0.3 seconds, present twice.
-Not identified in on-screen Directorate analysis.
-Community will find it with audio software. Plan for this - make it real.
+Echo-4 audio contains subsonic frequency - 0.3 seconds, present twice.
+Not identified in Directorate analysis shown on screen.
 
 ---
 
-# Video 06 - The Hollow King
+# Video 07 - The Hollow King
 
-## Runtime Target: 10-12 min | Complexity: 3/5
+## Runtime: 6-7 min | Complexity: 3/5 | Word Count: ~650-780
+
+### One Job
+
+Establish that some things cannot be contained - only documented.
+This is where the world stops feeling manageable.
+
+### Content Outline
+
+- Classification - why Obsidian level exists (1 min)
+
+- Known behaviors - waiting, presence, passive escalation (2 min)
+
+- Environmental effects - plant death, time, equipment failure (1.5 min)
+
+- Why no containment protocol exists - ever (1 min)
+
+- Archivist annotation - longest pause yet (30 sec)
+
+### What Gets Cut vs V1.0
+
+Survivor account overlays removed - absence of visual evidence is more powerful.
+Ashfall cross-reference kept as single line only.
 
 ### Assets Required
 
-- Hollow King entity file (visibly fragmented - torn edges, missing pages indicated)
-- Survivor account text overlays (sparse)
+- Hollow King entity file (fragmented)
+
 - Deep forest ambient
-- Subsonic drone track (full video)
-- Obsidian classification stamp (visually distinct)
 
-### Visual Approach
+- Subsonic drone (full video)
 
-Entity file visibly incomplete. Survivor accounts as overlaid text - never narrated.
-No surveillance footage. No imagery. The absence of visual evidence is the evidence.
-End on classification stamp. Hold. Cut to black.
+- Obsidian classification stamp
 
-### Narration Style
-
-Opens clinical. Slows progressively. Longest pauses of any Arc 1 video.
-The Archivist is affected. First time the audience senses it.
-
-### Sound Design
-
-- Subsonic drone: begins inaudible, rises to threshold of perception by midpoint
-- Deep forest ambient: wind, distant movement, nothing identifiable
-- Complete silence for final 30 seconds
-- No page turns. No transitions. Silence is the sound design.
-
-### Lore Dependencies
-
-- Hollow King ✓ | Black Vein lower levels connection ✓
-- Ashfall "the one the breach opens for" reference ✓ | Obsidian classification ✓
-
-### Production Notes
-
-This video should make the audience feel the Directorate has already lost.
-Pause before "There is no containment protocol." Pause after. Let it sit.
+- AI entity image - silhouette only, massive scale implied
 
 ### First Phantom Seed
 
-Entity file footnote, final page: "See also: [REDACTED] - predecessor classification, pre-Directorate origin."
-Redaction bar 1-2 pixels too short on right side. One letter visible.
-Do not zoom. Community will find it.
+Entity file footnote - redacted predecessor entity.
+Redaction bar 1-2 pixels too short. One letter visible at right edge.
 
 ---
 
-# Video 07 - The Directorate Factions
+# Video 08 - The Wardens
 
-## Runtime Target: 12-14 min | Complexity: 2/5
+## Runtime: 6-7 min | Complexity: 2/5 | Word Count: ~650-780
+
+### One Job
+
+Introduce the first Directorate faction.
+The Wardens believe the Veil must be sealed permanently - at any cost.
+Establish that the organization has an ideological core, not just an operational one.
+
+### Content Outline
+
+- What the Wardens believe (1.5 min)
+
+- How that belief shapes field operations (1.5 min)
+
+- What "at any cost" has meant historically - oblique references to Black Vein decisions (2 min)
+
+- Internal standing within the Directorate (1 min)
+
+- Archivist annotation (30 sec)
+
+### Why Split from V1.0
+
+Each faction deserves full focus.
+Three factions in one video meant 2 minutes each - not enough to make them feel real.
+Splitting gives each faction a dedicated audience who will debate and theorize about them separately.
 
 ### Assets Required
 
-- Three faction dossiers (Wardens, Architects, Threshold Initiative)
+- Wardens faction dossier
+
 - Internal intelligence assessment cover
-- Redacted signatory block (identical across all three - same length, same position)
-- Partially visible organizational chart
 
-### Visual Approach
+- Redacted signatory block (first appearance - cold blue-grey color treatment)
 
-Document-focused throughout. Each faction gets subtle color treatment:
-- Wardens: cold blue-grey
-- Architects: amber
-- Threshold Initiative: bruised purple (first use - Veil-adjacent contamination)
-Signatory block present on every document. Never remarked upon.
-
-### Narration Style
-
-Full clinical pace. Read each dossier as a threat assessment. Because it is.
-
-### Sound Design
-
-- Institutional ambient (HVAC hum, distant filing sounds)
-- Subtle tone shift between faction segments
-- No dramatic sound design - horror here is bureaucratic
-
-### Lore Dependencies
-
-- All three factions ✓ | Ashfall (now confirmed as Architects project) ✓ | Hunter mortality ✓
-
-### Production Notes
-
-Threshold Initiative purple is the most important visual choice in this video.
-First time Veil visual language enters a Directorate document. That contamination is intentional.
+- Directorate organizational chart (partially visible)
 
 ### First Phantom Seed
 
-All three faction charters share an identical redacted signatory.
-Same bar length. Same position. Same page location.
-One person founded or approved all three opposing factions. No comment. No zoom.
+Wardens charter - redacted signatory block.
+Same length. Same position. First of three appearances across Videos 08, 09, 10.
 
 ---
 
-# Video 08 - Recovered Log: Echo-4
+# Video 09 - The Architects
 
-## Runtime Target: 8-10 min | Complexity: 5/5
+## Runtime: 6-7 min | Complexity: 2/5 | Word Count: ~650-780
+
+### One Job
+
+Introduce the faction that caused Ashfall.
+Recontextualize Video 05 - the experiments weren't rogue. They were policy.
+
+### Content Outline
+
+- What the Architects believe - controlled Veil manipulation (1.5 min)
+
+- How Ashfall was their project - confirmation, not implication (2 min)
+
+- What they recovered from Ashfall - classified, referenced obliquely (1.5 min)
+
+- Current standing and influence within the Directorate (1 min)
+
+- Archivist annotation (30 sec)
+
+### Assets Required
+
+- Architects faction dossier (amber color treatment)
+
+- Ashfall cross-reference document
+
+- Redacted signatory block (second appearance - same as Video 08)
+
+### First Phantom Seed
+
+Architects charter - same redacted signatory as Video 08.
+Audience who noticed it in Video 08 will recognize it immediately here.
+
+---
+
+# Video 10 - The Threshold Initiative
+
+## Runtime: 6-7 min | Complexity: 2/5 | Word Count: ~650-780
+
+### One Job
+
+Introduce the most unsettling faction - they think humanity should adapt to the Veil.
+First use of bruised purple visual treatment (Veil-adjacent contamination).
+The signatory appears for the third time - all three factions, one author.
+
+### Content Outline
+
+- What the Threshold Initiative believes (1.5 min)
+
+- Why adaptation is their position - what evidence they cite (2 min)
+
+- What their endgame actually looks like - implied, never stated (1.5 min)
+
+- Why they are the most dangerous faction (1 min)
+
+- Archivist annotation - most agitated of the three (30 sec)
+
+### Assets Required
+
+- Threshold Initiative dossier (bruised purple #5F4B6E color treatment)
+
+- Redacted signatory block (third appearance - same as 08 and 09)
+
+- Veil contamination visual element
+
+### Production Notes
+
+The purple color treatment appearing for the first time in a Directorate document
+signals Veil contamination at the organizational level.
+The audience should feel that something is wrong before they understand why.
+
+### First Phantom Seed
+
+Third appearance of redacted signatory.
+Same length. Same position. Same bar.
+One author founded all three opposing factions.
+No comment. The documents simply share this detail.
+
+---
+
+# Video 11 - Recovered Log: Echo-4
+
+## Runtime: 6-8 min | Complexity: 5/5
+
+### One Job
+
+Pure recovered log. No narration. No document reading.
+Echo-4's final hours. The Red Platform is reached.
+Nothing is explained.
+
+### Content Outline
+
+- Echo-4 entry - standard deployment tone (1 min)
+
+- First anomalies - navigation failure, phantom sounds (1.5 min)
+
+- Team separation (1 min)
+
+- Three team member fragments - parallel experiences (2 min)
+
+- The Red Platform - one member reaches it. Recording ends. (1 min)
+
+- Archivist annotation as text overlay only (30 sec)
+
+### What Gets Cut vs V1.0
+
+Nothing cut - this was already tight.
+6-8 minutes of silence-driven audio content is exactly right for this format.
 
 ### Assets Required
 
 - VHS timestamp overlay system
-- Three distinct voice treatments (Echo-4 team members)
+
+- Three distinct voice treatments
+
 - Radio crackle and comms degradation processing
+
 - Progressive signal degradation video effect
-- Station 13 ambient (consistent with Videos 02 and 05)
-- Single recovered photograph (practical prop - physically damaged)
-- Deliberate, planned silence
 
-### Visual Approach
+- Station 13 ambient (consistent - third use, audience knows it now)
 
-No intro. No Archivist card. Opens directly on VHS timestamp.
-Visual degrades progressively. Final section: near-static, audio only.
-Archivist annotation appears as text overlay at end - not read aloud.
+- Recovered photograph (practical prop - damaged)
 
-### Narration Style
-
-None. Entirely the recording. Team voices feel real, not performed.
-Mundane at open. Increasingly fragmented.
-
-### Sound Design
-
-- Station 13 ambient (audience recognizes it now - that recognition is dread)
-- Radio crackle between team members
-- Phantom train motif (third use - audience feels it before hearing it)
-- One team member's audio cuts mid-sentence to complete silence
-- Red Platform section: silence under one sustained tone
-- Recording end: degradation into static, not a clean cut
-
-### Lore Dependencies
-
-- Echo-4 ✓ | Station 13 ✓ | The Red Platform (partial reveal) ✓ | The Conductor (implied through sound) ✓
-
-### Production Notes
-
-This is the video that defines the channel's ceiling.
-Silence is the primary tool - use more than feels comfortable.
-The Red Platform section: one tone, one voice fragment, then nothing.
-What the team member sees is never described. The recording ends before they can say.
+- Planned silence
 
 ### First Phantom Seed
 
-Recovered photograph shown three seconds during Red Platform section.
-Damaged, partially burned. Figure visible in background - not Echo-4, not The Conductor.
-Present in this frame only. Camera moves away from it naturally.
+Recovered photograph - three seconds, Red Platform section.
+Figure in background. Not Echo-4. Not The Conductor.
+One frame only. Camera moves away naturally.
 
 ---
 
-# Video 09 - The Timeline Has a Gap
+# Video 12 - The Timeline Has a Gap
 
-## Runtime Target: 10-12 min | Complexity: 2/5
+## Runtime: 6-7 min | Complexity: 2/5 | Word Count: ~650-780
+
+### One Job
+
+Show the audience the shape of the cover-up itself.
+The Veil wasn't discovered in 1968. It was re-discovered.
+Something existed before the Directorate.
+
+### Content Outline
+
+- The official timeline - 1968 onward, presented as complete (1.5 min)
+
+- Three inconsistencies surfaced - language implying prior knowledge (2 min)
+
+- Black Vein and Ashfall language re-examined (1.5 min)
+
+- The blank entry - a date before 1968, never filled in (1 min)
+
+- Archivist annotation - most agitated of Arc 1 (30 sec)
+
+### What Gets Cut vs V1.0
+
+Reduced from five inconsistencies to three - more focused, hits harder.
 
 ### Assets Required
 
-- Directorate master timeline (multi-page, appears comprehensive)
-- Secondary documents with language implying prior Veil knowledge
-- Black Vein survivor transcript excerpt (the "already there" line in new context)
-- Ashfall fragment referencing "earlier contact events"
-- Timeline final page: blank pre-1968 entry (a date, nothing else)
+- Directorate master timeline (multi-page)
 
-### Visual Approach
+- Secondary documents with prior knowledge language
 
-Opens on full timeline. Narration surfaces inconsistencies.
-Camera returns to specific phrases - audience re-reads them.
-Final page: blank entry. A date. Nothing else.
-Hold longer than comfortable. Archivist annotation appears.
-Cut to black.
+- Black Vein survivor excerpt (the "already there" line - third callback)
 
-### Narration Style
-
-Measured. The Archivist is working through something in real time.
-Not presenting - discovering. Clinical detachment visibly strained by the end.
-
-### Sound Design
-
-- Near silence throughout
-- Subtle interference tone building from midpoint
-- On blank entry: complete silence
-- Annotation appears in total silence
-
-### Lore Dependencies
-
-- Master Timeline ✓ | All three incidents ✓
-- Pre-1968 gap - establish as intentional omission, not absence of events
+- Final page with blank pre-1968 entry
 
 ### Production Notes
 
-The blank entry must feel like a wound in the document. Not a mistake. A deliberate removal.
-The pre-1968 date must be chosen carefully before production - it becomes significant in Arc 2.
-Choose it now. Protect it. Do not improvise it.
+The pre-1968 date must be chosen before production begins.
+It becomes a canon anchor for Arc 2.
+Choose it. Lock it. Put it in the canon timeline document.
 
 ### First Phantom Seed
 
-The blank pre-1968 timeline entry. A date. No title. No classification. No content.
-Not redacted - redaction implies something was removed.
-This entry was never filled in. The community will understand why that is different.
+The blank pre-1968 entry. A date. No content. Not redacted.
+Never filled in. The community will understand why that is different from redaction.
 
 ---
 
-# Video 10 - File Zero
+# Video 13 - File Zero
 
-## Runtime Target: 6-8 min | Complexity: 3/5
+## Runtime: 4-6 min | Complexity: 3/5
+
+### One Job
+
+Arc 1 payoff. One document. One line. Silence.
+The channel goes quiet after this.
+
+### Content Outline
+
+- Document scrolls. Almost entirely redacted. (3-4 min)
+
+- One unredacted line: "It was here before the first breach." (held 10 seconds)
+
+- Archivist annotation - longest of Arc 1 (held 15 seconds)
+
+- Cut to black.
+
+### Runtime Note
+
+Shorter than everything else. This is intentional.
+Restraint is the statement. The silence after the line needs room to exist.
+Do not pad this video. Do not add content.
 
 ### Assets Required
 
-- File Zero document (single page - almost entirely black redaction bars)
+- File Zero document (single page, near total redaction)
+
 - No ambient sound
-- No narration audio
-- Archivist annotation card (final, longest of Arc 1)
+
+- No narration
+
 - Silence
 
-### Visual Approach
-
-No intro. Opens directly on document. Slow scroll through redactions.
-One line near the bottom - unredacted. Hold for ten seconds minimum.
-Archivist annotation fades in. Hold fifteen seconds.
-Cut to black.
-Channel does not post for two to four weeks after this upload.
-
-### Narration Style
-
-None. The document is the video. The silence is the narration.
-
-### Sound Design
-
-Nothing. No sound design.
-Optional exception: single subsonic frequency beneath the silence - inaudible, felt only.
-
-### Lore Dependencies
-
-- The First Phantom ✓ | All Arc 1 seeds locked ✓
-- File Zero document created as canon before production
-
-### Production Notes
-
-The channel silence after this upload is part of the production.
-Plan the gap before posting Video 10. Two weeks minimum. Four maximum.
-When Arc 2 begins, the first video does not acknowledge the gap.
-It simply continues - as if the Archivist was never gone. Or was never safe to post.
-
 ### First Phantom Seed
 
-No seed. No hidden detail. For the first time - nothing concealed.
-That absence of concealment is the most unsettling moment of the arc.
+This video is the seed. No hidden detail.
+For the first time - nothing concealed.
+That absence is the most unsettling moment of the arc.
 
 ---
 
-# Arc 1 Production Summary
+# Revised Production Summary
 
-| # | Title | Runtime | Complexity | Recovery Video |
-|---|---|---|---|---|
-| 01 | The Veil Explained | 8-10 min | 2/5 | - |
-| 02 | HH-013: The Conductor | 10-12 min | 3/5 | - |
-| 03 | The Black Vein Collapse | 12-15 min | 3/5 | - |
-| 04 | The Ashfall Experiments | 10-12 min | 4/5 | heavy |
-| 05 | Station 13: The Full Incident | 12-14 min | 3/5 | - |
-| 06 | The Hollow King | 10-12 min | 3/5 | - |
-| 07 | The Directorate Factions | 12-14 min | 2/5 | recovery after 04+06 |
-| 08 | Recovered Log: Echo-4 | 8-10 min | 5/5 | heaviest |
-| 09 | The Timeline Has a Gap | 10-12 min | 2/5 | recovery after 08 |
-| 10 | File Zero | 6-8 min | 3/5 | - |
+#
+Title
+Runtime
+Complexity
+Notes
+
+01
+The Veil Explained
+6-7 min
+2/5
+Start here
+
+02
+HH-013: The Conductor
+6-8 min
+3/5
+
+03
+The Black Vein Collapse
+7-8 min
+3/5
+
+04
+HH-016: The Miner's Echo
+6-7 min
+2/5
+Directly follows 03
+
+05
+The Ashfall Experiments
+6-7 min
+4/5
+Heavy
+
+06
+Station 13: The Full Incident
+7-8 min
+3/5
+
+07
+The Hollow King
+6-7 min
+3/5
+
+08
+The Wardens
+6-7 min
+2/5
+Recovery video
+
+09
+The Architects
+6-7 min
+2/5
+Recovery video
+
+10
+The Threshold Initiative
+6-7 min
+2/5
+Recovery video
+
+11
+Recovered Log: Echo-4
+6-8 min
+5/5
+Heaviest - do last
+
+12
+The Timeline Has a Gap
+6-7 min
+2/5
+Recovery after 11
+
+13
+File Zero
+4-6 min
+3/5
+Never produce until 01-12 locked
+
+## Complexity Distribution
+
+- Low (1-2): Videos 01, 04, 08, 09, 10, 12 - six low-complexity videos
+
+- Medium (3): Videos 02, 03, 06, 07, 13 - five medium videos
+
+- High (4-5): Videos 05, 11 - two heavy productions
 
 ## Recommended Production Order
 
-1. Video 01 - establish your workflow
-2. Video 07 - low complexity, content-heavy, good second build
-3. Video 09 - same
-4. Video 02 - first audio design challenge
-5. Videos 03, 05, 06 - core arc content
-6. Video 04 - redaction effect, plan carefully
-7. Video 08 - full audio production, do this last before 10
-8. Video 10 - never produce until 01-09 are locked
+1. Video 01 - establish workflow
+
+2. Videos 08, 09, 10 - faction trilogy, low complexity, content-heavy
+
+3. Video 04 - Miner's Echo, low complexity, deepens existing lore
+
+4. Video 12 - low complexity, high narrative impact
+
+5. Videos 02, 03, 06, 07 - core arc content
+
+6. Video 05 - redaction effect, plan carefully
+
+7. Video 11 - full audio production, second to last
+
+8. Video 13 - never produce until everything else is locked
 
 ---
 
@@ -549,46 +911,111 @@ That absence of concealment is the most unsettling moment of the arc.
 ## Documents to Design
 
 - [ ] Directorate orientation document (V01)
+
 - [ ] HH-013 entity classification file (V02)
+
 - [ ] Black Vein classified incident report (V03)
-- [ ] Ashfall project file - heavily redacted (V04)
-- [ ] Ashfall facility map - one unlabeled room (V04)
-- [ ] Station 13 incident report (V05)
-- [ ] Echo-4 deployment orders (V05)
-- [ ] Red Platform reference maps (V05)
-- [ ] Hollow King entity file - fragmented (V06)
-- [ ] Three faction dossiers (V07)
-- [ ] Directorate master timeline (V09)
-- [ ] File Zero - near total redaction (V10)
+
+- [ ] HH-016 entity classification file (V04)
+
+- [ ] Black Vein crew manifest with missing number (V04)
+
+- [ ] Ashfall project file - heavily redacted (V05)
+
+- [ ] Ashfall facility map - one unlabeled room (V05)
+
+- [ ] Station 13 incident report (V06)
+
+- [ ] Echo-4 deployment orders (V06)
+
+- [ ] Red Platform reference maps (V06)
+
+- [ ] Hollow King entity file - fragmented (V07)
+
+- [ ] Wardens faction dossier - cold blue-grey (V08)
+
+- [ ] Architects faction dossier - amber (V09)
+
+- [ ] Threshold Initiative dossier - bruised purple (V10)
+
+- [ ] Directorate master timeline (V12)
+
+- [ ] File Zero - near total redaction (V13)
 
 ## Audio Assets to Produce
 
 - [ ] Ambient industrial drone (V01, reuse throughout)
-- [ ] Transit system ambient (V02, V05, V08)
-- [ ] Phantom train approach sound (V02, V05, V08)
-- [ ] Mining ambient (V03)
-- [ ] Ashfall audio log fragment (V04)
-- [ ] Echo-4 comms recordings (V05, V08)
-- [ ] Deep forest ambient + subsonic drone (V06)
-- [ ] Institutional ambient (V07, V09)
-- [ ] Station 13 full audio design (V08)
+
+- [ ] Transit system ambient (V02, V06, V11)
+
+- [ ] Phantom train approach sound (V02, V06, V11)
+
+- [ ] Mining ambient (V03, V04 - consistent)
+
+- [ ] Distant pickaxe strike sound (V04)
+
+- [ ] Ashfall audio log fragment (V05)
+
+- [ ] Echo-4 comms recordings (V06, V11)
+
+- [ ] Deep forest ambient + subsonic drone (V07)
+
+- [ ] Institutional ambient (V08, V09, V10, V12)
+
+- [ ] Station 13 full audio design (V11)
 
 ## Visual Overlays to Produce
 
 - [ ] CRT scan line overlay
+
 - [ ] VHS tracking error overlay
+
 - [ ] Signal degradation effect (progressive)
+
 - [ ] Archival grain / damage filter
+
 - [ ] Redaction bar animation system
+
 - [ ] VHS timestamp overlay system
+
 - [ ] Obsidian classification stamp
+
 - [ ] Archivist annotation card template
+
+- [ ] Faction color treatment system (blue-grey / amber / purple)
+
+## AI Images to Generate (per Visual Style Guide)
+
+- [ ] Arc 1 hero image - collapsed mine entrance (channel art)
+
+- [ ] Hunter character pair - practical field gear
+
+- [ ] HH-013 The Conductor - transit silhouette
+
+- [ ] HH-016 The Miner's Echo - tunnel apparition
+
+- [ ] The Hollow King - forest silhouette, implied scale
+
+- [ ] Black Vein location - underground tunnel
+
+- [ ] Station 13 location - abandoned platform
+
+- [ ] Ashfall facility - brutalist corridor
 
 ## Pre-Launch Checklist
 
 - [ ] Channel name and handle secured
-- [ ] Channel art established (worn, stamped aesthetic)
-- [ ] All Arc 1 First Phantom seeds locked and documented internally
-- [ ] File Zero pre-1968 date chosen and entered into canon
-- [ ] Post-Video 10 silence gap planned
-- [ ] Videos 01-03 produced before channel launches
+
+- [ ] Channel art complete (industrial Appalachian aesthetic)
+
+- [ ] Brand sheet regenerated per Visual Style Guide
+
+- [ ] All 13 First Phantom seeds locked and documented
+
+- [ ] Pre-1968 canon date chosen and entered into master timeline
+
+- [ ] Post-Video 13 silence gap planned (2-4 weeks minimum)
+
+- [ ] Videos 01, 02, and 03 produced before channel launches
+
+- [ ] Playlist created: "Arc 1: The Opened File - Obsidian Frequency"
