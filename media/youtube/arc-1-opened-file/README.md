@@ -4,6 +4,8 @@
 Videos 01-10
 
 ## Contents
+- [Video Pipeline](./video-pipeline.md)
+- [Release Strategy](./release-strategy.md)
 - [Arc 1 Overview](./arc-1-overview.md)
 - [First Phantom Thread - Arc 1 Seed Map](./first-phantom-thread-seed-map.md)
 - [Video 01](./videos/video-01-the-veil-explained.md)
