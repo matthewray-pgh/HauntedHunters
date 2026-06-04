@@ -1,11 +1,11 @@
-# Haunted Hunters  
+# Obsidian Frequency  
 ## Project Requirements Document (PRD v0.1)
 
 ---
 
 # Project Vision
 
-Haunted Hunters is a mobile-first monster collection and supernatural investigation game.
+Obsidian Frequency is a mobile-first monster collection and supernatural investigation game.
 
 Players build teams of Hunters, investigate haunted locations, capture paranormal entities, expand their Headquarters, and uncover a growing supernatural world.
 

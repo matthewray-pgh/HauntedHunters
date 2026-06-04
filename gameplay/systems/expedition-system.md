@@ -7,7 +7,7 @@ Core Gameplay Loop System
 
 # Overview
 
-Expeditions are the primary gameplay loop in Haunted Hunters.
+Expeditions are the primary gameplay loop in Obsidian Frequency.
 
 Instead of real-time manual control, players:
 - select a team of Hunters

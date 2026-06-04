@@ -7,7 +7,7 @@ World Structure System
 
 # Overview
 
-The world of Haunted Hunters is divided into escalating regions.
+The world of Obsidian Frequency is divided into escalating regions.
 
 Each region represents:
 - increased Veil instability

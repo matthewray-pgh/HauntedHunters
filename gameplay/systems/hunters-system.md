@@ -7,7 +7,7 @@ Core Gameplay System
 
 # Overview
 
-Hunters are collectible playable characters within Haunted Hunters.
+Hunters are collectible playable characters within Obsidian Frequency.
 
 Each Hunter represents a specialized role in paranormal investigation and containment.
 

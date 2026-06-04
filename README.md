@@ -1,6 +1,6 @@
-# Haunted Hunters
+# Obsidian Frequency
 
-Haunted Hunters is a paranormal extraction horror universe centered around the Hunters Directorate and the phenomenon known as Veil Breaches.
+Obsidian Frequency is a paranormal extraction horror universe centered around the Hunters Directorate and the phenomenon known as Veil Breaches.
 
 Players investigate corrupted locations, identify paranormal entities, recover classified evidence, and survive escalating reality distortions tied to an underlying dimensional layer known as The Veil.
 
@@ -53,6 +53,6 @@ High-level creative direction and design philosophy.
 
 # Primary Tone
 
-Haunted Hunters focuses on tension, mystery, and environmental storytelling rather than action-heavy horror.
+Obsidian Frequency focuses on tension, mystery, and environmental storytelling rather than action-heavy horror.
 
 Knowledge is the player's primary weapon.
