@@ -1,5 +1,8 @@
 # Video 01 - The Veil Explained
 
+## Canonical Script
+[Production Script v2.0](../../../scripts/script-v01-the-veil-explained.md)
+
 ## Pillar
 Incident Report / World Introduction
 
