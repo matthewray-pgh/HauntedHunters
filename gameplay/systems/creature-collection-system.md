@@ -54,7 +54,6 @@ Players are driven by:
 - Swamp Witch
 
 ## Epic
-- Carapax Prawn
 - Clockwork Revenant
 - Lantern Warden
 
