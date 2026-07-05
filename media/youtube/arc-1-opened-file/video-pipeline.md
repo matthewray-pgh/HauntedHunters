@@ -321,7 +321,7 @@ Seed subterranean horror without naming specific entities.
 ### What Gets Cut vs V1.0
 
 Reduced from five survivor cards to three - pick the most disturbing.
-Hollow King and Carapax Prawn references kept but unnamed.
+Hollow King references kept but unnamed.
 
 ### Assets Required
 
