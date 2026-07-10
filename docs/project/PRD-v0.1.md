@@ -97,10 +97,16 @@ Central player progression hub.
 ## Requirements
 
 ### Rooms
-- Operations Center
-- Research Lab
-- Armory
-- Containment Wing
+Full canonical roster (see gameplay/systems/headquarters-system.md); MVP ships
+with the first four, the remaining three unlock post-MVP.
+
+- Operations Center (MVP)
+- Research Lab (MVP)
+- Armory (MVP)
+- Containment Wing (MVP)
+- Archive (post-MVP)
+- Ritual Chamber (post-MVP)
+- Trophy Hall (post-MVP)
 
 ### Features
 - Upgrade rooms
@@ -133,8 +139,9 @@ Primary player-controlled units.
 
 - Investigator
 - Exorcist
-- Medium
 - Mechanic
+- Cryptozoologist
+- Medium
 
 ---
 

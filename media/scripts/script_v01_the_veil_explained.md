@@ -357,7 +357,7 @@ Not today.
 
 ## [VISUAL]
 Camera moves to Hunter classification section.
-Four role designations visible — Investigator, Exorcist, Medium, Mechanic.
+Five role designations visible — Investigator, Exorcist, Mechanic, Cryptozoologist, Medium.
 
 **ARCHIVIST (V.O.)**
 

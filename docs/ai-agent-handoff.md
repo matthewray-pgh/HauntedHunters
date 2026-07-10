@@ -1,5 +1,5 @@
 # Obsidian Frequency — Project Summary & AI Agent Handoff Document
-## Version 2.0 | Complete Session Summary
+## Version 3.1 | Complete Session Summary
 
 ---
 
@@ -19,10 +19,25 @@ unless the user explicitly requests a change.
   for long-form videos flagged as unresolved.
 - v2.0 — Visual direction partially resolved. HeyGen added. Short Form
   Content System added. First short-form scripts (HeyGen-dependent) written.
-- v3.0 (this version) — Visual direction fully confirmed: painterly dark
+- v3.0 — Visual direction fully confirmed: painterly dark
   illustration across ALL content. HeyGen removed. Runway ML added.
   Short Form Content System rebuilt (v3.0). Launch Batch scripts replaced.
   Tech stack finalized: Midjourney + Runway ML + ElevenLabs + CapCut.
+- v3.1 (this version) — Full canon reconciliation pass. Series Arc Map,
+  Arc 1 Content Inventory, and First Phantom Seed Map rewritten to match
+  Video Pipeline v2.0's 13-video roster (previously flagged as a known
+  inconsistency — now resolved). Hunter roles locked at 5 (Cryptozoologist
+  added to PRD and Video 01 script/storyboard, which had drifted to 4).
+  "Carapax Prawn" (HH-018) removed — it was never a real canon entity file;
+  entity count corrected to 8. Directorate founding date confirmed as 1968
+  everywhere (Release Strategy's pinned-comment example previously said
+  "the following year"). Headquarters rooms reconciled to one 7-room
+  canonical list (Operations Center, Research Lab, Armory, Containment
+  Wing as MVP; Archive, Ritual Chamber, Trophy Hall as post-MVP) across
+  the PRD and the Headquarters System doc. Crimson / Alert `#7A2E2E` added
+  as a seventh locked brand color. Repo Structure Reference and Completed
+  Documents table corrected to match actual repo paths (previous version
+  described a hypothetical underscore-path structure that never existed).
 
 ---
 
@@ -149,6 +164,7 @@ Veil interaction instability.
 | Veil Color | #5F4B6E |
 | Highlight / Dust | #B8A9BA |
 | Brass / Warmth | #8C6E4A |
+| Crimson / Alert | #7A2E2E |
 | Paper / Text | #DCE6D6 |
 
 ## Typography (Locked)
@@ -305,7 +321,7 @@ Mechanics / Video Concepts
 Yellow (Common/low) → Orange (Rare/medium) → Red (Epic/high) →
 Crimson (exceptional) → Obsidian (beyond classification)
 
-## Established Entities (9 total)
+## Established Entities (8 total)
 
 **HH-013 — The Conductor** | Threat: Crimson | Transit-Bound Spectral.
 Manifests in active rail systems. Mimics broadcasts. Related: Station 13.
@@ -322,9 +338,6 @@ Sound-sensitive death-loop apparition. Related: Black Vein Collapse.
 
 **HH-017 — The Briar Witch** | Rare | Orange | Territorial Nature
 Aberration. Never fully visible. Disables navigation equipment.
-
-**HH-018 — Carapax Prawn** | Epic | Red | Deep-Soil Biological Anomaly.
-Subsonic ambush predator. Related: Black Vein lower levels.
 
 **HH-019 — The Lantern Warden** | Epic | Red | Threshold Guardian
 Specter. Suppresses other entity activity. HELD FOR ARC 2 — does not
@@ -410,7 +423,7 @@ goes silent for 2–4 weeks after this upload.
 
 | # | Title | Pillar | Runtime | Complexity |
 |---|-------|--------|---------|------------|
-| 01 | The Veil Explained | World Intro | 6–7 min | 2/5 |
+| 01 | The Veil Explained | World Intro | 6–7 min | 3/5 |
 | 02 | HH-013: The Conductor | Entity File | 6–8 min | 3/5 |
 | 03 | The Black Vein Collapse | Incident Report | 7–8 min | 3/5 |
 | 04 | HH-016: The Miner's Echo | Entity File | 6–7 min | 2/5 |
@@ -488,7 +501,7 @@ Lowest production barrier — no Midjourney or Runway ML needed.
 
 ## Canon Connections Map
 Full short-to-long-form mapping exists in the Short Form Content
-System document (media/youtube/short_form_content_system.md).
+System document (media/shorts/short_form_content_system.md).
 Covers all 13 long-form videos with corresponding short-form concepts
 and formats.
 
@@ -519,7 +532,7 @@ and formats.
 
 ## Long Form
 **Video 01 — The Veil Explained** (v2.0, with image placements)
-Location: media/youtube/scripts/script_v01_the_veil_explained.md
+Location: media/scripts/script_v01_the_veil_explained.md
 Status: Complete, ready for production. Includes 3 Midjourney image
 prompts, full production checklist, pinned comment, description copy,
 title options.
@@ -539,7 +552,7 @@ Reporter) replaced entirely.
    pipeline test. No First Phantom seed (establishing short). Connects to
    Video 01 world without requiring a specific incident.
 
-Location: media/youtube/scripts/shorts/shorts_launch_batch_01.md
+Location: media/shorts/shorts_launch_batch_01.md
 Status: Complete v2.0, ready for production.
 
 ---
@@ -553,24 +566,26 @@ channel-specific references already completed by creator in repo.
 
 | Document | Repo Path | Status |
 |----------|-----------|--------|
-| Content Bible | docs/content_bible.md | Complete |
-| Series Arc Map | media/youtube/series_arc_map.md | Complete (still shows 10 videos — see note below) |
-| Video Pipeline v2.0 | media/youtube/video_pipeline.md | Complete (13 videos, current) |
-| Release Strategy | media/youtube/release_strategy.md | Complete |
-| Visual Style Guide + Midjourney Prompts | docs/visual_style_guide.md | Complete, brand sheet regeneration not yet executed |
-| Video 01 Script v2.0 | media/youtube/scripts/script_v01_the_veil_explained.md | Complete |
-| Short Form Content System v2.0 | media/youtube/short_form_content_system.md | Complete |
-| Shorts Launch Batch 01 | media/youtube/scripts/shorts/shorts_launch_batch_01.md | Complete |
-| Entity Batch 01 (8 entities) | canon/entities_appalachian_batch01.md | Complete |
-| This Handoff Document | docs/ai_agent_handoff.md | v2.0 (this version) |
+| Content Bible | docs/content-bible.md | Complete |
+| Series Arc Map | docs/series-arc-map.md | Complete (13-video roster, synced to Video Pipeline) |
+| Video Pipeline v2.0 | media/youtube/arc-1-opened-file/video-pipeline.md | Complete (13 videos, current, source of truth) |
+| Release Strategy | media/youtube/arc-1-opened-file/release-strategy.md | Complete |
+| Arc 1 Content Inventory | media/youtube/arc-1-opened-file/arc-1-content-inventory.md | Complete (13-video roster) |
+| First Phantom Seed Map | media/youtube/arc-1-opened-file/first-phantom-thread-seed-map.md | Complete (13-video roster) |
+| Visual Style Guide + Midjourney Prompts | docs/visual-style-guide.md | Complete, brand sheet regeneration not yet executed |
+| Video 01 Script v2.0 | media/scripts/script_v01_the_veil_explained.md | Complete |
+| Video 01 Storyboard | media/storyboard/storyboard_v01_the_veil_explained.md | Complete |
+| Short Form Content System v3.0 | media/shorts/short_form_content_system.md | Complete |
+| Shorts Launch Batch 01 | media/shorts/shorts_launch_batch_01.md | Complete |
+| Entity Roster (8 entities) | canon/entities/ (HH-013 through HH-021, no HH-018) | Complete |
+| This Handoff Document | docs/ai-agent-handoff.md | v3.1 (this version) |
 
-## KNOWN INCONSISTENCY TO FLAG
-The Series Arc Map document was written for the original 10-video
-structure and has NOT been updated to reflect the 13-video expansion
-(faction split into 3 videos, Miner's Echo addition) that IS reflected
-in Video Pipeline v2.0. If asked to reference arc structure, defer to
-Video Pipeline v2.0's 13-video roster as the current source of truth.
-The Series Arc Map should be revised to match in a future session.
+## Previously Flagged Inconsistency — Now Resolved
+As of v3.1, the Series Arc Map, Arc 1 Content Inventory, and First Phantom
+Seed Map have all been revised to match Video Pipeline v2.0's 13-video
+roster (faction split into 3 videos, Miner's Echo added as Video 04).
+Video Pipeline v2.0 remains the source of truth for arc structure; the
+other documents now index it correctly instead of duplicating stale data.
 
 ---
 
@@ -583,13 +598,11 @@ The Series Arc Map should be revised to match in a future session.
 ## Important
 2. **Brand sheet regeneration** — Midjourney prompts exist in Visual
    Style Guide but have not been run/executed yet.
-3. **Series Arc Map update** — needs revision to match 13-video
-   Pipeline v2.0 structure.
-4. **Arc 2 title and central question** — "The Record Before Records"
+3. **Arc 2 title and central question** — "The Record Before Records"
    is a working title only, not developed further.
-5. **Patreon launch timing/structure** — designed conceptually
+4. **Patreon launch timing/structure** — designed conceptually
    (Clearance Level tiers) but not finalized.
-6. **Recurring Hunter avatar — visual lock** — described in Short 01
+5. **Recurring Hunter avatar — visual lock** — described in Short 01
    script but actual HeyGen avatar has not been generated/selected yet.
 
 ## Resolved — Do Not Reopen
@@ -612,6 +625,25 @@ The Series Arc Map should be revised to match in a future session.
   (locked)
 - Long form vs short form launch sequencing: long form first by a few
   days, then short form follows (locked)
+- Series Arc Map, Arc 1 Content Inventory, and First Phantom Seed Map
+  now match Video Pipeline v2.0's 13-video roster (locked, v3.1)
+- Hunter Roles: 5 classes — Investigator, Exorcist, Mechanic,
+  Cryptozoologist, Medium — synced across PRD, Video 01 script, and
+  Video 01 storyboard (locked, v3.1)
+- Entity roster: 8 established entities (HH-013 through HH-021, no
+  HH-018). "Carapax Prawn" was never a real canon file and has been
+  removed from this document (locked, v3.1)
+- Directorate founding date: 1968, confirmed everywhere including
+  Release Strategy's pinned-comment example, which previously said
+  "the following year" (locked, v3.1)
+- Headquarters rooms: 7-room canonical roster in
+  gameplay/systems/headquarters-system.md — Operations Center,
+  Research Lab, Armory, Containment Wing (MVP), plus Archive, Ritual
+  Chamber, Trophy Hall (post-MVP). PRD-v0.1 now lists the same seven,
+  flagged by MVP status (locked, v3.1)
+- Brand palette: Crimson / Alert `#7A2E2E` added as a seventh locked
+  color, for Crimson-level incidents and Epic-threat accents (locked,
+  v3.1)
 
 ---
 
@@ -620,26 +652,45 @@ The Series Arc Map should be revised to match in a future session.
 ```
 HauntedHunters/
 ├── canon/
-│   ├── entities/
+│   ├── directorate/
+│   ├── entities/           (HH-013 .. HH-021, no HH-018 — 8 files)
 │   ├── incidents/
-│   ├── locations/
-│   └── organizations/
+│   ├── timeline/
+│   └── world/
 ├── docs/
-│   ├── content_bible.md
-│   ├── creative_direction.md
-│   ├── visual_style_guide.md
-│   └── ai_agent_handoff.md
+│   ├── content-bible.md
+│   ├── series-arc-map.md
+│   ├── visual-style-guide.md
+│   ├── ai-agent-handoff.md (this file)
+│   ├── creative-direction/
+│   └── project/
+│       ├── PRD-v0.1.md
+│       └── expenses/
 ├── gameplay/
+│   └── systems/
+│       ├── headquarters-system.md
+│       ├── hunters-system.md
+│       ├── creature-collection-system.md
+│       ├── expedition-system.md
+│       └── seasonal-events.md
 ├── media/
+│   ├── scripts/
+│   │   └── script_v01_the_veil_explained.md
+│   ├── storyboard/
+│   │   └── storyboard_v01_the_veil_explained.md
+│   ├── shorts/
+│   │   ├── short_form_content_system.md
+│   │   └── shorts_launch_batch_01.md
 │   └── youtube/
-│       ├── series_arc_map.md (NEEDS UPDATE — see Known Inconsistency)
-│       ├── video_pipeline.md
-│       ├── release_strategy.md
-│       ├── short_form_content_system.md
-│       └── scripts/
-│           ├── script_v01_the_veil_explained.md
-│           └── shorts/
-│               └── shorts_launch_batch_01.md
+│       └── arc-1-opened-file/
+│           ├── README.md
+│           ├── video-pipeline.md (source of truth for arc structure)
+│           ├── release-strategy.md
+│           ├── arc-1-overview.md
+│           ├── arc-1-content-inventory.md
+│           ├── first-phantom-thread-seed-map.md
+│           ├── what-arc-1-establishes.md
+│           └── arc-2-setup-preview.md
 ├── ideas/
 ├── prompts/
 └── templates/
@@ -669,7 +720,7 @@ Prioritize the pre-1968 date — it's the only true production blocker
 remaining. Everything else can be resolved opportunistically.
 
 ## If the creator wants to develop more entities:
-9 entities established. Template exists. Lantern Warden is ready for
+8 entities established. Template exists. Lantern Warden is ready for
 Arc 2, needs video concepts only. New entity batches should follow
 industrial/transit/coastal themes to match regional progression.
 

@@ -14,10 +14,10 @@ By the end of Arc 1, the audience knows it exists.
 They do not know what it is.
 
 ## Arc Emotional Journey
-- Videos 01-03: Establish the world. Ground the viewer. Build trust in the format.
-- Videos 04-06: Deepen the mythology. Introduce institutional conflict. Raise the stakes.
-- Videos 07-09: Fracture the safety of the world. Show the Directorate failing.
-- Video 10: Confirm The First Phantom is real. Leave everything else unanswered.
+- Videos 01-04: Establish the world. Ground the viewer. Build trust in the format.
+- Videos 05-07: Deepen the mythology. Introduce institutional conflict. Raise the stakes.
+- Videos 08-12: Fracture the safety of the world. Show the Directorate failing.
+- Video 13: Confirm The First Phantom is real. Leave everything else unanswered.
 
 ## Arc Payoff
 A single leaked document - partially redacted - confirms the existence of an entity
