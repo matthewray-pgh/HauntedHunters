@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Raleway+Condensed:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root{ --void:#0B0C0D; --paper-text:#DCE6D6; --crimson:#7A2E2E; }
+  *{box-sizing:border-box;}
+  html,body{ margin:0; padding:0; background:#000; width:1920px; height:1080px; overflow:hidden; font-family:'Special Elite', monospace; }
+  .card{
+    position:relative; width:1920px; height:1080px;
+    background: radial-gradient(ellipse at 50% 40%, rgba(255,255,255,0.02), transparent 60%), var(--void);
+    display:flex; flex-direction:column; align-items:center; justify-content:center; overflow:hidden;
+  }
+  .card::before{ content:""; position:absolute; inset:0;
+    background-image: repeating-linear-gradient(0deg, rgba(255,255,255,0.012) 0px, transparent 1px, transparent 3px);
+    pointer-events:none; }
+  .stamp{ position:absolute; top:80px; left:96px; font-family:'Raleway Condensed', sans-serif; font-weight:700;
+    font-size:22px; letter-spacing:4px; color:var(--crimson); border:1px solid var(--crimson); padding:10px 22px;
+    opacity:0.85; text-transform:uppercase; }
+  .caseno{ position:absolute; top:80px; right:96px; font-family:'Raleway Condensed', sans-serif; font-size:19px;
+    letter-spacing:3px; color:#5c6660; text-transform:uppercase; }
+  .quote{ max-width:1400px; padding:0 100px; text-align:center; font-size:52px; line-height:1.75; color:var(--paper-text); letter-spacing:0.5px; }
+  .quote::before{ content:"\201C"; }
+  .quote::after{ content:"\201D"; }
+  .card-footer{ position:absolute; bottom:70px; font-family:'Raleway Condensed', sans-serif; font-size:18px;
+    letter-spacing:4px; color:#4a534d; text-transform:uppercase; }
+</style></head>
+<body>
+<div class="card">
+  <div class="stamp">Transcribed — Source Withheld</div>
+  <div class="caseno">Case 1968-A</div>
+  <p class="quote">It was already there before we broke through.</p>
+  <div class="card-footer">Recovery Interview — 1968</div>
+</div>
+</body></html>
