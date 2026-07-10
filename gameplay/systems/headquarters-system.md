@@ -33,8 +33,17 @@ It reinforces the feeling that the player is building something meaningful withi
 
 # Headquarters Rooms
 
+## Operations Center
+Central command hub and mission dispatch. MVP room.
+
+- recruit and manage Hunters
+- launch expeditions
+- view active roster and collections
+
+---
+
 ## Research Lab
-Unlocks and expands monster data analysis.
+Unlocks and expands monster data analysis. MVP room.
 
 - reveals entity weaknesses
 - improves classification accuracy
@@ -43,7 +52,7 @@ Unlocks and expands monster data analysis.
 ---
 
 ## Armory
-Improves field equipment and hunter loadouts.
+Improves field equipment and hunter loadouts. MVP room.
 
 - unlocks advanced gear
 - enhances expedition survivability
@@ -52,7 +61,7 @@ Improves field equipment and hunter loadouts.
 ---
 
 ## Containment Wing
-Stores captured or documented creatures.
+Stores captured or documented creatures. MVP room.
 
 - displays contained entities
 - unlocks behavioral insights
@@ -61,7 +70,7 @@ Stores captured or documented creatures.
 ---
 
 ## Archive
-Central lore repository.
+Central lore repository. Post-MVP room.
 
 - unlocks story fragments
 - reveals incident reports
@@ -70,7 +79,7 @@ Central lore repository.
 ---
 
 ## Ritual Chamber
-Unstable anomaly generation space.
+Unstable anomaly generation space. Post-MVP room.
 
 - creates rare entity encounters
 - influences expedition modifiers
@@ -79,7 +88,7 @@ Unstable anomaly generation space.
 ---
 
 ## Trophy Hall
-Visual progression display.
+Visual progression display. Post-MVP room.
 
 - shows rare captures
 - displays completed collections

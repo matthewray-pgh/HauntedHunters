@@ -32,6 +32,7 @@ Use these exact hex values across all generated imagery and document design.
 | Veil Color | `#5F4B6E` | Muted purple - Veil events, Legendary entities only |
 | Highlight / Dust | `#B8A9BA` | Dusty lavender - atmospheric light, fog |
 | Brass / Warmth | `#8C6E4A` | Aged brass - lanterns, analog equipment, document warmth |
+| Crimson / Alert | `#7A2E2E` | Muted oxblood - Crimson-level incidents, Epic-threat accents only |
 | Paper / Text | `#DCE6D6` | Pale off-white - documents, text, moonlight |
 
 ---
@@ -319,6 +320,41 @@ text reads CLASSIFIED - flat design, isolated on paper texture
 
 ---
 
+# Video 01 Image Prompts
+
+Three images required for "The Veil Explained" (media/scripts/script_v01_the_veil_explained.md).
+Two already exist elsewhere in this guide under different names - referenced
+here rather than duplicated.
+
+## Image 01 - The Veil (Photo Insert)
+
+No matching prompt existed in this guide - the entity/location prompts above
+all have a recognizable subject, and this image specifically needs none.
+
+```text
+abstract deep darkness suggesting a hidden layer beneath visible reality,
+no identifiable shapes or figures, pure atmospheric depth and suggestion,
+teal and near-black color palette, subtle dimensionality within the shadow,
+painterly dark illustration style, detailed texture, worn paint surface,
+cinematic composition, high contrast lighting, deep shadow dominant,
+no Victorian elements, no fantasy armor, no Gothic architecture,
+dark background #1A1D1F, teal shadows #2B3D3D, nothing explained
+--ar 3:4 --style raw --stylize 800
+```
+
+## Image 02 - Level Five (Full Frame)
+
+Use "Veil Event - Reality Distortion" below - already painterly, already 16:9,
+already matches the corridor-distortion brief. Run as-is.
+
+## Image 03 - Breach Site (Location Insert)
+
+Use "Main Logo Hero Image" above under Brand Sheet Regeneration Prompts -
+same collapsed mine entrance composition. Change `--ar 1:1` to `--ar 4:3`
+to match the location-insert card's aspect ratio.
+
+---
+
 # Atmospheric / Transition Image Prompts
 
 ## General Transition - Industrial Horror
@@ -400,7 +436,7 @@ When regenerating the brand sheet, replace these elements:
 
 | Element | Keep As-Is |
 |---|---|
-| Color palette | All six hex values retained |
+| Color palette | All seven hex values retained |
 | Cinzel Decorative Bold | Primary font retained |
 | Raleway Condensed | Secondary font retained |
 | HH monogram / brand mark | Retained - apply worn stamp treatment |

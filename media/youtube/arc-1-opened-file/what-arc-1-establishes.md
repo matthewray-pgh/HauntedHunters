@@ -1,6 +1,6 @@
 # What Arc 1 Establishes
 
-By the end of Video 10, the audience knows:
+By the end of Video 13, the audience knows:
 - The Veil is real and dangerous
 - The Directorate is compromised by internal faction war
 - Three major historical incidents are connected

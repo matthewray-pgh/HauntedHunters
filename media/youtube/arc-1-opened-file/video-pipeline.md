@@ -30,7 +30,7 @@
 
 6-8 minutes is the standard target across all Arc 1 videos.
 This hits the YouTube mid-roll ad threshold while respecting new viewer attention.
-Video 10 (File Zero) is the only exception - 4-6 minutes, restraint is the point.
+Video 13 (File Zero) is the only exception - 4-6 minutes, restraint is the point.
 
 ## Production Complexity
 
@@ -73,7 +73,7 @@ Phantom Seed
 The Veil Explained
 World Intro
 6-7 min
-2/5
+3/5
 File number 0000
 
 02
@@ -210,7 +210,7 @@ The confirmation document. One unredacted line. This video IS the seed.
 
 # Video 01 - The Veil Explained
 
-## Runtime: 6-7 min | Complexity: 2/5 | Word Count: ~650-800
+## Runtime: 6-7 min | Complexity: 3/5 | Word Count: ~700-800
 
 ### One Job
 
@@ -219,30 +219,50 @@ Do not introduce everything. Introduce The Veil and why it matters.
 
 ### Content Outline
 
-- What the Veil is - Directorate definition, clinical language (2 min)
+- What the Veil is - Directorate definition, clinical language, Image 01 photo
+  insert (2 min)
 
-- What Veil Breaches are - severity levels I through V (2 min)
+- What Veil Breaches are - severity levels I through V, Image 02 full-frame
+  break on Level Five (2 min)
 
-- What the Hunters Directorate is - brief, cold, one paragraph only (1 min)
+- Where breaches occur - environments, Image 03 location insert (1 min)
 
-- What Hunters are - expendable but valuable, closing statement (1 min)
+- The Hunters Directorate - stated purpose, 1968 formation, incident unnamed
+  (45 sec)
+
+- What Hunters are - five role designations, expendable but valuable (45 sec)
+
+- Civilian cover protocols - closing statement (30 sec)
 
 - Archivist annotation close (30 sec)
 
-### What Gets Cut vs V1.0
+### Scope Note (Locked)
 
-Full Directorate history removed - that belongs in faction videos.
-Focus tightens to The Veil phenomenon only.
+Video 01 keeps the full six-section document (not the trimmed four-beat
+version considered during v2.0 planning). Script and storyboard are both
+written to this full scope - source of truth for Video 01 content.
 
 ### Assets Required
 
-- Directorate orientation document
+- Directorate orientation document (DIR-ORI-001) - header + all six sections,
+  one continuous scroll
+
+- Photo insert mount (Image 01 - The Veil) - angled, bent corner, RECOVERED
+  stamp
+
+- Field documentation card (Image 03 - Breach Sites) - inset format, BREACH
+  SITE stamp
+
+- Archivist annotation card - bare, no header or stamp
+
+- Image 01, Image 02, Image 03 (Midjourney - painterly illustration prompts
+  per Visual Style Guide, not the photorealistic prompts in the v1.0 script)
 
 - CRT overlay
 
-- Ambient industrial drone
+- Ambient industrial drone + electrical hum layer
 
-- Archivist annotation card
+- Page-turn sound at section breaks
 
 - Personnel file with 0000 visible
 
@@ -807,7 +827,7 @@ Notes
 01
 The Veil Explained
 6-7 min
-2/5
+3/5
 Start here
 
 02
@@ -880,9 +900,9 @@ Never produce until 01-12 locked
 
 ## Complexity Distribution
 
-- Low (1-2): Videos 01, 04, 08, 09, 10, 12 - six low-complexity videos
+- Low (1-2): Videos 04, 08, 09, 10, 12 - five low-complexity videos
 
-- Medium (3): Videos 02, 03, 06, 07, 13 - five medium videos
+- Medium (3): Videos 01, 02, 03, 06, 07, 13 - six medium videos
 
 - High (4-5): Videos 05, 11 - two heavy productions
 
@@ -911,6 +931,12 @@ Never produce until 01-12 locked
 ## Documents to Design
 
 - [ ] Directorate orientation document (V01)
+
+- [ ] Photo insert mount - Image 01, RECOVERED stamp (V01)
+
+- [ ] Field documentation card - Image 03, BREACH SITE stamp (V01)
+
+- [ ] Archivist annotation card - reusable template, first used V01 (V01)
 
 - [ ] HH-013 entity classification file (V02)
 
@@ -945,6 +971,10 @@ Never produce until 01-12 locked
 ## Audio Assets to Produce
 
 - [ ] Ambient industrial drone (V01, reuse throughout)
+
+- [ ] Electrical hum layer, beneath drone (V01, reuse throughout)
+
+- [ ] Document page-turn sound, section breaks (V01, reuse throughout)
 
 - [ ] Transit system ambient (V02, V06, V11)
 
@@ -985,6 +1015,12 @@ Never produce until 01-12 locked
 - [ ] Faction color treatment system (blue-grey / amber / purple)
 
 ## AI Images to Generate (per Visual Style Guide)
+
+- [ ] Image 01 - The Veil, abstract depth, no identifiable shapes (V01)
+
+- [ ] Image 02 - Level Five corridor distortion, full frame (V01)
+
+- [ ] Image 03 - mine entrance breach site, location insert (V01)
 
 - [ ] Arc 1 hero image - collapsed mine entrance (channel art)
 

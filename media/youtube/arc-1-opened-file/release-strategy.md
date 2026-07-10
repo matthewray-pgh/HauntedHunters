@@ -61,7 +61,7 @@ One video every three to six weeks.
 
 - Lore channels with strong world-building retain audiences across long gaps
 - Watch time per video is more algorithmically valuable than upload frequency at this scale
-- The gap between uploads becomes part of the narrative (especially post-Video 10)
+- The gap between uploads becomes part of the narrative (especially post-Video 13)
 - Quality production cannot be rushed without destroying the aesthetic
 
 ## Managing the Gap
@@ -98,7 +98,7 @@ Titles should read like file labels, not video titles.
 
 `The Black Vein Collapse | Obsidian Frequency Lore`
 `The Conductor | Entity File #013 | Obsidian Frequency`
-`The Directorate Factions Explained | Obsidian Frequency`
+`The Wardens | Directorate Faction File | Obsidian Frequency`
 
 ## Recommendation
 
@@ -191,7 +191,7 @@ CRIMSON - HISTORICAL INCIDENT REPORT
 
 Black Vein Excavation Site. Appalachian Region. 1968.
 Mining crews did not return. Federal recovery teams did not return.
-The Directorate was formed the following year.
+The Directorate was formed in 1968.
 
 This file was scheduled for permanent suppression.
 
@@ -234,14 +234,14 @@ After Video 02:
 
 `FILE STATUS: ACTIVE | ENTITY HH-013 LAST CONFIRMED: STATION 13 SECTOR 7 | HUNTER TEAM ECHO-4: UNACCOUNTED`
 
-After Video 05:
+After Video 06:
 
 `NOTE: All architectural records for Station 13 have been reviewed. The Red Platform does not appear in any verified infrastructure document. - [REDACTED]`
 
-After Video 10:
+After Video 13:
 
 `[NO PINNED COMMENT]`
-(The absence of a pin after Video 10 will be noticed and discussed. Plan for this.)
+(The absence of a pin after Video 13 will be noticed and discussed. Plan for this.)
 
 ## Engagement Philosophy
 
@@ -323,21 +323,21 @@ Outreach begins here - not before.
 - Do not post self-promotion - post lore fragments as if they are real documents
 - Let people discover the channel through the content, not an advertisement
 
-## Phase 3 - Accelerate (Videos 08-10)
+## Phase 3 - Accelerate (Videos 08-13)
 
-Goal: Video 08 (Recovered Log: Echo-4) is the breakout candidate.
+Goal: Video 11 (Recovered Log: Echo-4) is the breakout candidate.
 Pure recovered log format with no narration is highly shareable and clippable.
 This is the video most likely to reach audiences outside the existing subscriber base.
 
-### Video 08 Distribution Push
+### Video 11 Distribution Push
 
 - Post the Echo-4 audio fragment (30 seconds, no context) as a Community Post before release
 - Post a single frame from the recovered photograph to Reddit with no explanation
 - Let the community surface the video - do not post it directly
 
-## Phase 4 - Payoff (Post-Video 10)
+## Phase 4 - Payoff (Post-Video 13)
 
-The channel silence after Video 10 is a growth event, not a gap.
+The channel silence after Video 13 is a growth event, not a gap.
 The community will post theories, compile seed evidence, and create response content.
 This organic activity drives new viewers back to Video 01.
 That rewatch cycle is the most valuable traffic the channel will ever generate.
@@ -435,10 +435,10 @@ Viewers need to be invested in the world before they will pay for deeper access.
 - [ ] Tags reviewed for each video before publish
 - [ ] Watch time analytics reviewed after each video - adjust pacing if retention drops early
 
-## Post-Video 10
+## Post-Video 13
 
 - [ ] Silence gap planned (2-4 weeks)
-- [ ] Arc 2 first video in production before Video 10 publishes
+- [ ] Arc 2 first video in production before Video 13 publishes
 - [ ] Community Post silence during gap (no posts - the channel is quiet)
 - [ ] Arc 2 launch: no announcement, no explanation - the Archivist simply returns
 
