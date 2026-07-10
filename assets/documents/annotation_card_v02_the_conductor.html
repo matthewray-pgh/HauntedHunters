@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
+<style>
+  :root{ --void:#1A1D1F; --paper-text:#DCE6D6; --brass:#8C6E4A; }
+  *{box-sizing:border-box;}
+  html,body{ margin:0; padding:0; background:#000; width:1920px; height:1080px; overflow:hidden; }
+  .card{
+    width:1920px; height:1080px; display:flex; align-items:center; justify-content:center;
+    background: radial-gradient(ellipse at 50% 45%, rgba(140,110,74,0.05), transparent 65%), var(--void);
+  }
+  .paper{
+    position:relative; width:1180px; padding:80px 96px;
+    background:
+      radial-gradient(circle at 20% 15%, rgba(0,0,0,0.18), transparent 40%),
+      radial-gradient(circle at 85% 88%, rgba(0,0,0,0.16), transparent 40%),
+      linear-gradient(160deg, #2a2620 0%, #211e19 55%, #1c1a16 100%);
+    border:1px solid rgba(220,230,214,0.08);
+    box-shadow: 0 30px 80px rgba(0,0,0,0.7), inset 0 0 90px rgba(0,0,0,0.4);
+    clip-path: polygon(0.8% 2%, 3% 0%, 97% 0.6%, 99.4% 2.4%, 100% 30%, 99.3% 60%,
+      100% 88%, 97.8% 99%, 60% 100%, 15% 99.2%, 0.6% 97%, 0% 65%, 0.5% 35%);
+  }
+  .paper::before{ content:""; position:absolute; inset:0;
+    background-image: repeating-radial-gradient(circle at 30% 25%, rgba(255,255,255,0.015) 0, rgba(255,255,255,0.015) 1px, transparent 1px, transparent 3px);
+    pointer-events:none; }
+  .quote{ position:relative; font-family:'Special Elite', monospace; font-size:34px; line-height:1.85; color:var(--paper-text); letter-spacing:0.3px; }
+  .quote::before{ content:"\201C"; color:var(--brass); opacity:0.6; }
+  .quote::after{ content:"\201D"; color:var(--brass); opacity:0.6; }
+</style></head>
+<body>
+<div class="card"><div class="paper"><p class="quote">HH-013 remains active. Three Hunter teams have been assigned to this file since 1994. Two filed reports. One did not.</p></div></div>
+</body></html>
