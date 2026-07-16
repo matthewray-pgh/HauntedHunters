@@ -16,6 +16,7 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 120,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 2,
@@ -25,6 +26,7 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 96,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 3,
@@ -34,6 +36,7 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 72,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 4,
@@ -43,6 +46,7 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 144,
     narration: null,
     asset: "documents/v01_the_veil_explained/dir_ori_001_orientation_document.png",
+    audioAsset: null,
   },
   {
     scene: 5,
@@ -52,6 +56,7 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 240,
     narration: "*\"They give this to every new operative on their first day.*\n\n[BEAT \u2014 2 seconds silence in narration]\n\n*A welcome document. An orientation.*\n*Something to make the work feel manageable.*\n\n[BEAT \u2014 2 seconds]\n\n*Read it carefully.\"*",
     asset: "documents/v01_the_veil_explained/dir_ori_001_orientation_document.png",
+    audioAsset: null,
   },
   {
     scene: 6,
@@ -61,6 +66,7 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 840,
     narration: "*\"The Directorate defines the Veil as follows.*\n\n[BEAT \u2014 2 seconds]\n\n*'The Veil is the hidden layer beneath stable human reality.*\n*It is not a separate universe. Not an afterlife.*\n*Not an alternate dimension in any traditional sense.'*\n\n[BEAT \u2014 2 seconds]\n\n*Their own researchers describe it as \u2014*\n\n[BEAT \u2014 2 seconds]\n\n*'Reality underneath reality.'*\n\n[LONG BEAT \u2014 4 seconds]\"*",
     asset: "documents/v01_the_veil_explained/dir_ori_001_orientation_document.png",
+    audioAsset: null,
   },
   {
     scene: 7,
@@ -70,6 +76,7 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 600,
     narration: "*[5 second hold before narration begins]*\n\n*\"The Veil appears intrinsically linked to human consciousness.*\n*To memory. To trauma. To emotion.*\n*To death. To perception.*\n\n[BEAT \u2014 2 seconds]\n\n*Under normal conditions \u2014*\n\n[BEAT \u2014 2 seconds]\n\n*\u2014 humanity remains isolated from direct interaction with it.*\n\n[BEAT \u2014 2 seconds]\n\n*The document does not explain what happens under abnormal conditions.*\n\n[BEAT \u2014 2 seconds]\n\n*Not yet.\"*",
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 8,
@@ -79,6 +86,7 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 1080,
     narration: "*\"Certain environments weaken the boundary between layers of reality.*\n\n*The Directorate calls these regions Veil Breaches.*\n\n[BEAT \u2014 2 seconds]\n\n*They are classified by severity.*\n\n[BEAT \u2014 2 seconds]\n\n*Level One. Minor disturbances.*\n*Unexplained sounds. Electrical interference. Isolated hallucinations.*\n\n[BEAT \u2014 2 seconds]\n\n*Level Two. Localized manifestations.*\n*Something is present. Something that should not be.*\n\n[BEAT \u2014 2 seconds]\n\n*Level Three. Persistent entity activity.*\n*It does not leave.*\n\n[BEAT \u2014 2 seconds]\n\n*Level Four. Reality instability.*\n*The environment itself begins to fail.*\n\n[BEAT \u2014 2 seconds]\n\n*Level Five.*\n\n[LONG BEAT \u2014 4 seconds]\n\n*The document describes Level Five as \u2014*\n\n[BEAT \u2014 2 seconds]\n\n*'Catastrophic Veil integration.'\"*",
     asset: "documents/v01_the_veil_explained/dir_ori_001_orientation_document.png",
+    audioAsset: null,
   },
   {
     scene: 9,
@@ -88,6 +96,7 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 720,
     narration: "*[4 seconds complete silence after image appears]*\n\n*\"It does not elaborate on what that means.*\n\n[BEAT \u2014 2 seconds]\n\n*I have seen the elaboration.*\n*It is filed elsewhere.\"*",
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 10,
@@ -97,6 +106,7 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 360,
     narration: "*\"The Directorate has identified increased breach activity in specific\nenvironments.*\n\n[BEAT \u2014 2 seconds]\n\n*Locations associated with mass trauma.*\n*Industrial disasters.*\n*Underground structures.*\n*Abandoned institutions.*\n*Prolonged human suffering.\"*",
     asset: "documents/v01_the_veil_explained/dir_ori_001_orientation_document.png",
+    audioAsset: null,
   },
   {
     scene: 11,
@@ -106,6 +116,7 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 840,
     narration: "*\"Mines.*\n*Transit tunnels.*\n*Hospitals.*\n*Laboratories.*\n*Churches.*\n*Disaster sites.*\n\n[BEAT \u2014 2 seconds]\n\n*The document notes \u2014 and this is a direct quote \u2014*\n\n*'Breaches appear influenced by human psychological conditions.*\n*Environments with intense emotional history frequently generate*\n*highly specialized entity manifestations.'*\n\n[LONG BEAT \u2014 4 seconds]\n\n*They knew this on day one.*\n\n[BEAT \u2014 2 seconds]\n\n*They sent people in anyway.\"*",
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 12,
@@ -115,6 +126,7 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 720,
     narration: "*\"The Hunters Directorate is a covert international organization.*\n\n*Its stated purpose \u2014*\n\n[BEAT \u2014 2 seconds]\n\n*Identify Veil Breaches.*\n*Contain entities.*\n*Suppress public awareness.*\n*Recover anomalous materials.*\n\n[BEAT \u2014 2 seconds]\n\n*The organization officially formed following an incident in 1968.*\n\n*The document does not name the incident.*\n\n[BEAT \u2014 2 seconds]\n\n*I will.*\n\n[BEAT \u2014 2 seconds]\n\n*Not today.\"*",
     asset: "documents/v01_the_veil_explained/dir_ori_001_orientation_document.png",
+    audioAsset: null,
   },
   {
     scene: 13,
@@ -124,6 +136,7 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 960,
     narration: "*\"Hunters are the field operatives of the Directorate.*\n\n*Trained. Classified. Deployed.*\n\n[BEAT \u2014 2 seconds]\n\n*The document describes them as \u2014*\n\n[BEAT \u2014 2 seconds]\n\n*'Expendable but valuable.'*\n\n[LONG BEAT \u2014 4 seconds]\n\n*That phrase appears in the orientation document.*\n\n*The document given to the Hunters themselves.*\n\n*On their first day.*\n\n[LONG BEAT \u2014 4 seconds]\n\n*Average field operative lifespan \u2014*\n\n[BEAT \u2014 2 seconds]\n\n*\u2014 remains classified.\"*",
     asset: "documents/v01_the_veil_explained/dir_ori_001_orientation_document.png",
+    audioAsset: null,
   },
   {
     scene: 14,
@@ -133,6 +146,7 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 720,
     narration: "*\"When a breach occurs in a populated area \u2014*\n\n[BEAT \u2014 2 seconds]\n\n*\u2014 the Directorate deploys standard civilian cover stories.*\n\n[BEAT \u2014 2 seconds]\n\n*Gas leaks.*\n*Structural instability.*\n*Contamination events.*\n*Terrorist threats.*\n*Industrial accidents.*\n\n[BEAT \u2014 2 seconds]\n\n*You have heard these explanations.*\n\n[BEAT \u2014 2 seconds]\n\n*You have believed them.*\n\n[LONG BEAT \u2014 4 seconds]\"*",
     asset: "documents/v01_the_veil_explained/dir_ori_001_orientation_document.png",
+    audioAsset: null,
   },
   {
     scene: 15,
@@ -142,6 +156,7 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 192,
     narration: null,
     asset: "documents/v01_the_veil_explained/dir_ori_001_orientation_document.png",
+    audioAsset: null,
   },
   {
     scene: 16,
@@ -151,6 +166,7 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 360,
     narration: null,
     asset: "documents/v01_the_veil_explained/annotation_card_v01_the_veil_explained.png",
+    audioAsset: null,
   },
   {
     scene: 17,
@@ -160,6 +176,7 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 192,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 18,
@@ -169,6 +186,7 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 96,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 19,
@@ -178,5 +196,6 @@ export const v01Scenes: Scene[] = [
     durationInFrames: 48,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
 ];

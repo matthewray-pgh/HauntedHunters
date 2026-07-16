@@ -1,1 +1,6 @@
 .DS_Store
+
+# Remotion
+node_modules
+out
+.remotion

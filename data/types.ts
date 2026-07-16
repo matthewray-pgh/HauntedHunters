@@ -36,6 +36,14 @@ export interface Scene {
    * for the prompt, or docs/ for the branding source (see manifest generation notes).
    */
   asset: string | null;
+  /**
+   * Relative path (from public/) to the rendered ElevenLabs narration clip for this
+   * scene, e.g. "audio/v01_the_veil_explained/scene-05.mp3". If a scene's narration
+   * was split into multiple clips at [BEAT] boundaries, point this at the first clip
+   * and sequence the rest as additional Remotion <Sequence>s within the scene component.
+   * `null` means no narration audio exists yet for this scene (or the scene is silent).
+   */
+  audioAsset: string | null;
 }
 
 export const FPS = 24;
