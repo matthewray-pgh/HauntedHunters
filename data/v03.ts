@@ -16,6 +16,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 120,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 2,
@@ -25,6 +26,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 96,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 3,
@@ -34,6 +36,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 72,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 4,
@@ -43,6 +46,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 168,
     narration: null,
     asset: "documents/v03_black_vein_collapse/inc_1968_001_black_vein_report.png",
+    audioAsset: null,
   },
   {
     scene: 5,
@@ -52,6 +56,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 240,
     narration: "*\"Every Directorate document begins the same year.*\n\n[BEAT \u2014 2 seconds]\n\n*Somewhere in the file, sooner or later \u2014 1968.*\n\n[BEAT \u2014 2 seconds]\n\n*This is the file where that year begins.\"*",
     asset: "documents/v03_black_vein_collapse/inc_1968_001_black_vein_report.png",
+    audioAsset: null,
   },
   {
     scene: 6,
@@ -61,6 +66,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 960,
     narration: "*\"Mining crews excavating beneath the Black Vein site uncovered a\nsubterranean structure.*\n\n[BEAT \u2014 2 seconds]\n\n*The report calls it \u2014*\n\n[BEAT \u2014 2 seconds]\n\n*'Inconsistent with known geological formations.'*\n\n[LONG BEAT \u2014 4 seconds]\n\n*Survivors described impossible tunnel geometry.*\n\n[BEAT \u2014 2 seconds]\n\n*Echoing voices.*\n\n[BEAT \u2014 2 seconds]\n\n*Non-euclidean passageways.*\n\n[LONG BEAT \u2014 4 seconds]\n\n*That word \u2014 non-euclidean \u2014 appears in a 1968 mining report.*\n\n[BEAT \u2014 2 seconds]\n\n*Written by a foreman. Not a physicist.*\n\n[BEAT \u2014 2 seconds]\n\n*He didn't have a better word for what he saw.\"*",
     asset: "documents/v03_black_vein_collapse/inc_1968_001_black_vein_report.png",
+    audioAsset: null,
   },
   {
     scene: 7,
@@ -70,6 +76,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 720,
     narration: "*[6 second hold before narration begins]*\n\n*\"This is the excavation crew's own map.*\n\n[BEAT \u2014 2 seconds]\n\n*Four tunnels. Numbered, not named.*\n\n[BEAT \u2014 2 seconds]\n\n*Tunnel Four's line doesn't reach the edge of the page.*\n\n[LONG BEAT \u2014 4 seconds]\n\n*I don't know if that means the crew stopped drawing.*\n\n[BEAT \u2014 2 seconds]\n\n*Or if it means the tunnel didn't stop.\"*",
     asset: "documents/v03_black_vein_collapse/excavation_map_black_vein.html",
+    audioAsset: null,
   },
   {
     scene: 8,
@@ -79,6 +86,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 840,
     narration: "*\"Entire excavation teams disappeared shortly after initial breach exposure.*\n\n[BEAT \u2014 2 seconds]\n\n*Federal recovery personnel entered the site afterward.*\n\n[LONG BEAT \u2014 4 seconds]\n\n*Most did not return.*\n\n[BEAT \u2014 2 seconds]\n\n*The report lists the phenomena clinically. Tunnel expansion beyond\nmapped dimensions. Auditory hallucinations. Missing time events.\nPsychological breakdowns.*\n\n[BEAT \u2014 2 seconds]\n\n*Apparent spatial looping.*\n\n[LONG BEAT \u2014 4 seconds]\n\n*Five words for a tunnel that leads back to itself.*\n\n[BEAT \u2014 2 seconds]\n\n*The report doesn't use those words.*\n\n[BEAT \u2014 2 seconds]\n\n*I just did.\"*",
     asset: "documents/v03_black_vein_collapse/inc_1968_001_black_vein_report.png",
+    audioAsset: null,
   },
   {
     scene: 9,
@@ -88,6 +96,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 288,
     narration: "*\"Three testimonies survive from the original recovery interviews.*\n\n[BEAT \u2014 2 seconds]\n\n*I am not going to read them to you.*\n\n[LONG BEAT \u2014 4 seconds]\n\n*Read them yourself.\"*",
     asset: "documents/v03_black_vein_collapse/inc_1968_001_black_vein_report.png",
+    audioAsset: null,
   },
   {
     scene: 10,
@@ -97,6 +106,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 144,
     narration: null,
     asset: "documents/v03_black_vein_collapse/testimony_card01_first_phantom_seed.png",
+    audioAsset: null,
   },
   {
     scene: 11,
@@ -106,6 +116,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 168,
     narration: null,
     asset: "documents/v03_black_vein_collapse/testimony_card02_hollow_king_reference.png",
+    audioAsset: null,
   },
   {
     scene: 12,
@@ -115,6 +126,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 168,
     narration: null,
     asset: "documents/v03_black_vein_collapse/testimony_card03_eleven_fourteen.png",
+    audioAsset: null,
   },
   {
     scene: 13,
@@ -124,6 +136,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 960,
     narration: "*\"Federal recovery teams eventually withdrew.*\n\n[BEAT \u2014 2 seconds]\n\n*What replaced them was not federal.*\n\n[LONG BEAT \u2014 4 seconds]\n\n*The Black Vein Collapse directly contributed to the formation of the\nHunters Directorate.*\n\n[BEAT \u2014 2 seconds]\n\n*Many of its earliest containment doctrines came from survivor testimony.*\n\n[BEAT \u2014 2 seconds]\n\n*The same testimony you just read.*\n\n[LONG BEAT \u2014 4 seconds]\n\n*An organization built from three sentences and a collapsed mine.*\n\n[BEAT \u2014 2 seconds]\n\n*It has not stopped growing since.\"*",
     asset: "documents/v03_black_vein_collapse/inc_1968_001_black_vein_report.png",
+    audioAsset: null,
   },
   {
     scene: 14,
@@ -133,6 +146,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 720,
     narration: "*[5 seconds complete silence after image appears]*\n\n*\"The site is officially sealed.*\n\n[LONG BEAT \u2014 4 seconds]\n\n*Unofficial Directorate reports suggest otherwise.*\n\n[BEAT \u2014 2 seconds]\n\n*They suggest it remains active.*\n\n[BEAT \u2014 2 seconds]\n\n*Beneath containment.\"*",
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 15,
@@ -142,6 +156,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 480,
     narration: "*\"Several excavation records remain missing.*\n\n[BEAT \u2014 2 seconds]\n\n*Not redacted.*\n\n[BEAT \u2014 2 seconds]\n\n*Missing.*\n\n[LONG BEAT \u2014 4 seconds]\n\n*There is a difference, and the Directorate is very careful about it.\"*",
     asset: "documents/v03_black_vein_collapse/inc_1968_001_black_vein_report.png",
+    audioAsset: null,
   },
   {
     scene: 16,
@@ -151,6 +166,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 192,
     narration: null,
     asset: "documents/v03_black_vein_collapse/inc_1968_001_black_vein_report.png",
+    audioAsset: null,
   },
   {
     scene: 17,
@@ -160,6 +176,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 360,
     narration: null,
     asset: "documents/v03_black_vein_collapse/annotation_card_v03_black_vein_collapse.png",
+    audioAsset: null,
   },
   {
     scene: 18,
@@ -169,6 +186,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 192,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 19,
@@ -178,6 +196,7 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 96,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 20,
@@ -187,5 +206,6 @@ export const v03Scenes: Scene[] = [
     durationInFrames: 48,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
 ];

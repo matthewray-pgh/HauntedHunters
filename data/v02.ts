@@ -16,6 +16,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 120,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 2,
@@ -25,6 +26,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 96,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 3,
@@ -34,6 +36,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 72,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 4,
@@ -43,6 +46,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 144,
     narration: null,
     asset: "documents/v02_the_conductor/hh013_classification_document.png",
+    audioAsset: null,
   },
   {
     scene: 5,
@@ -52,6 +56,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 288,
     narration: "*\"This is the first entity file in this archive.*\n\n[BEAT \u2014 2 seconds]\n\n*It will not be the last.*\n\n[BEAT \u2014 2 seconds]\n\n*But it is the one I keep coming back to.\"*",
     asset: "documents/v02_the_conductor/hh013_classification_document.png",
+    audioAsset: null,
   },
   {
     scene: 6,
@@ -61,6 +66,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 96,
     narration: null,
     asset: "documents/v02_the_conductor/hh013_classification_document.png",
+    audioAsset: null,
   },
   {
     scene: 7,
@@ -70,6 +76,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 480,
     narration: "*\"Designation \u2014 HH-013.*\n\n[BEAT \u2014 2 seconds]\n\n*Classification \u2014 Transit-Bound Spectral.*\n\n[BEAT \u2014 2 seconds]\n\n*Threat level \u2014*\n\n[BEAT \u2014 2 seconds]\n\n*Crimson.*\n\n[LONG BEAT \u2014 4 seconds]\n\n*Status \u2014 Active.*\n\n[BEAT \u2014 2 seconds]\n\n*Not contained. Not neutralized.*\n\n[BEAT \u2014 2 seconds]\n\n*Active.\"*",
     asset: "documents/v02_the_conductor/hh013_classification_document.png",
+    audioAsset: null,
   },
   {
     scene: 8,
@@ -79,6 +86,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 480,
     narration: "*\"The file lists three conditions for manifestation.*\n\n[BEAT \u2014 2 seconds]\n\n*Active rail systems.*\n\n[BEAT \u2014 2 seconds]\n\n*Electrical interference.*\n\n[BEAT \u2014 2 seconds]\n\n*Station announcements.*\n\n[LONG BEAT \u2014 4 seconds]\n\n*Read that last one again.*\n\n[BEAT \u2014 2 seconds]\n\n*Station announcements.*\n\n[BEAT \u2014 2 seconds]\n\n*Not a location. A sound.\"*",
     asset: "documents/v02_the_conductor/hh013_classification_document.png",
+    audioAsset: null,
   },
   {
     scene: 9,
@@ -88,6 +96,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 600,
     narration: "*\"It mimics transit broadcasts.*\n\n[BEAT \u2014 2 seconds]\n\n*It appears near powered tracks.*\n\n[BEAT \u2014 2 seconds]\n\n*It distorts electronic communication.*\n\n[LONG BEAT \u2014 4 seconds]\n\n*The file doesn't say it imitates the announcer.*\n\n[BEAT \u2014 2 seconds]\n\n*It says it mimics the broadcast.*\n\n[BEAT \u2014 2 seconds]\n\n*There's a difference. I don't think the file's authors noticed it.*\n\n[BEAT \u2014 2 seconds]\n\n*I noticed it.\"*",
     asset: "documents/v02_the_conductor/hh013_classification_document.png",
+    audioAsset: null,
   },
   {
     scene: 10,
@@ -97,6 +106,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 336,
     narration: "*\"Flickering lights.*\n\n[BEAT \u2014 2 seconds]\n\n*Phantom train sounds.*\n\n[BEAT \u2014 2 seconds]\n\n*Hallucinated passengers.\"*\n\n[LONG BEAT \u2014 4 seconds, carries into Scene 11]",
     asset: "documents/v02_the_conductor/hh013_classification_document.png",
+    audioAsset: null,
   },
   {
     scene: 11,
@@ -106,6 +116,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 480,
     narration: "*[5 second hold before narration begins]*\n\n*\"This is the only surveillance frame that survived recovery.*\n\n[BEAT \u2014 2 seconds]\n\n*Cross-reference the platform against ridership logs for that hour.*\n\n[BEAT \u2014 2 seconds]\n\n*The logs show zero passengers present.*\n\n[LONG BEAT \u2014 4 seconds]\n\n*The footage disagrees.\"*",
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 12,
@@ -115,6 +126,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 72,
     narration: null,
     asset: "documents/v02_the_conductor/hh013_classification_document.png",
+    audioAsset: null,
   },
   {
     scene: 13,
@@ -124,6 +136,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 240,
     narration: "*\"One audio fragment was recovered alongside this file.*\n\n[BEAT \u2014 2 seconds]\n\n*I am going to play part of it.\"*\n\n[LONG BEAT \u2014 4 seconds, carries into Scene 14]",
     asset: "documents/v02_the_conductor/hh013_classification_document.png",
+    audioAsset: null,
   },
   {
     scene: 14,
@@ -133,6 +146,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 528,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 15,
@@ -142,6 +156,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 240,
     narration: "*\"Directorate audio analysis could not identify the station name spoken\nat the start of that recording.*\n\n[BEAT \u2014 2 seconds]\n\n*It does not match any station on the current transit map.\"*",
     asset: "documents/v02_the_conductor/hh013_classification_document.png",
+    audioAsset: null,
   },
   {
     scene: 16,
@@ -151,6 +166,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 600,
     narration: "*\"This entity is cross-referenced to a single incident.*\n\n[BEAT \u2014 2 seconds]\n\n*Station 13. 1994.*\n\n[BEAT \u2014 2 seconds]\n\n*I am not going to tell you what happened there.*\n\n[LONG BEAT \u2014 4 seconds]\n\n*Not yet.*\n\n[BEAT \u2014 2 seconds]\n\n*What I will tell you is that a Hunter team was deployed into that\nincident.*\n\n[BEAT \u2014 2 seconds]\n\n*Designation \u2014 Echo-4.*\n\n[LONG BEAT \u2014 4 seconds]\n\n*Their deployment orders are in this archive.*\n\n[BEAT \u2014 2 seconds]\n\n*Their outcome is not.\"*",
     asset: "documents/v02_the_conductor/hh013_classification_document.png",
+    audioAsset: null,
   },
   {
     scene: 17,
@@ -160,6 +176,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 480,
     narration: "*\"There is one handwritten note in this file.*\n\n[BEAT \u2014 2 seconds]\n\n*Unsigned.*\n\n[LONG BEAT \u2014 4 seconds]\n\n*'Do not board the final train.'*\n\n[LONG BEAT \u2014 4 seconds]\n\n*I don't know who wrote it.*\n\n[BEAT \u2014 2 seconds]\n\n*I don't know which train.*\n\n[BEAT \u2014 2 seconds]\n\n*I am telling you anyway.\"*",
     asset: "documents/v02_the_conductor/hh013_classification_document.png",
+    audioAsset: null,
   },
   {
     scene: 18,
@@ -169,6 +186,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 192,
     narration: null,
     asset: "documents/v02_the_conductor/hh013_classification_document.png",
+    audioAsset: null,
   },
   {
     scene: 19,
@@ -178,6 +196,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 360,
     narration: null,
     asset: "documents/v02_the_conductor/annotation_card_v02_the_conductor.png",
+    audioAsset: null,
   },
   {
     scene: 20,
@@ -187,6 +206,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 192,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 21,
@@ -196,6 +216,7 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 96,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
   {
     scene: 22,
@@ -205,5 +226,6 @@ export const v02Scenes: Scene[] = [
     durationInFrames: 48,
     narration: null,
     asset: null,
+    audioAsset: null,
   },
 ];

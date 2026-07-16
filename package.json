@@ -1,0 +1,21 @@
+{
+  "name": "obsidian-frequency-remotion",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "remotion studio",
+    "render": "remotion render",
+    "upgrade": "remotion upgrade"
+  },
+  "dependencies": {
+    "react": "19.2.7",
+    "react-dom": "19.2.7",
+    "remotion": "4.0.489",
+    "@remotion/cli": "4.0.489"
+  },
+  "devDependencies": {
+    "typescript": "5.7.3",
+    "@types/react": "19.2.17",
+    "@types/node": "22.10.2"
+  }
+}
