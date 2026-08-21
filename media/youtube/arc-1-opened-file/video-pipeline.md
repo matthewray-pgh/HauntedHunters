@@ -242,6 +242,12 @@ Video 01 keeps the full six-section document (not the trimmed four-beat
 version considered during v2.0 planning). Script and storyboard are both
 written to this full scope - source of truth for Video 01 content.
 
+**Note:** Video 01 remains the only video with a standalone storyboard
+document. Per the v3.2 decision in `docs/ai-agent-handoff.md`, storyboards
+are discontinued as a default for Video 02 onward - the script's own
+Production Notes and Checklist sections now carry that detail. Do not
+treat the absence of a storyboard for later videos as incomplete work.
+
 ### Assets Required
 
 - Directorate orientation document (DIR-ORI-001) - header + all six sections,
