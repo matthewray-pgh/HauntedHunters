@@ -8,7 +8,17 @@
 
 # Philosophy
 
-Obsidian Frequency is not a content volume play.
+**Revised for the Halloween 2026 season push.** The original approach below
+(irregular, event-driven releases) is the long-term steady-state identity of
+this channel, but it is deliberately suspended for the launch-through-Halloween
+window in favor of an active, algorithm-aware push. Full arc 1 will still be
+told in 13 episodes - the schedule below simply tells it faster, on a fixed
+weekly cadence, to build audience while horror content has real seasonal
+search and discovery advantage.
+
+## Steady-state identity (resumes after Video 13 / Arc 2)
+
+Obsidian Frequency is not, in its long-term identity, a content volume play.
 It is a world-building play.
 
 The goal is not to post frequently.
@@ -19,28 +29,35 @@ The Archivist does not operate on a content calendar.
 The Archivist releases files when it is safe to do so.
 
 That framing turns every gap between uploads from a weakness into a feature.
+This identity is the default once the Halloween push concludes and Arc 2
+begins - see `halloween-2026-release-calendar.md` for exactly where the
+active phase ends and steady-state resumes.
 
 ---
 
 # Channel Launch Strategy
 
-## Do Not Launch Empty
+## Launching With Less Than the Old Minimum
 
-Have a minimum of three videos produced and ready before the channel goes public.
+The original minimum of three ready videos before launch is waived for the
+Halloween push: the channel launches with Video 01 (long-form) plus 2 shorts
+ready, on the logic that a weekly long-form cadence closes the "empty channel"
+gap within days rather than needing a stockpile up front.
 
-### Recommended Launch Sequence
+### Actual Launch Sequence (see `halloween-2026-release-calendar.md` for full dates)
 
-- **Day 1:** Video 01 - The Veil Explained
-- **Day 4-7:** Video 02 - HH-013: The Conductor
-- **Day 10-14:** Video 03 - The Black Vein Collapse
+- **Day 1 (Tue Aug 25):** Video 01 - The Veil Explained
+- **Day 2 (Wed Aug 26):** Short 1 - Breach Confirmed
+- **Day 4 (Fri Aug 28):** Short 2
+- Video 02 publishes exactly one week after Video 01, and every video
+  thereafter follows on a strict weekly Tuesday cadence through Video 13.
 
-Releasing three videos in the first two weeks accomplishes three things:
+Compressing the shorts into the first four days (instead of spreading them
+across launch week) overlaps them with the algorithm's "seed audience" test
+window on Video 01, while engagement is at its highest.
 
-1. Gives the algorithm enough content to understand what the channel is
-2. Gives new viewers a reason to subscribe immediately rather than return later
-3. Establishes the format and tone before organic sharing begins
-
-After Video 03 - release on quality schedule only.
+After Video 13 (File Zero) - the channel returns to quality-over-schedule,
+irregular release cadence per the steady-state philosophy above.
 
 ## Do Not Announce the Launch
 
@@ -53,18 +70,34 @@ This is consistent with the Archivist persona and more intriguing than a launch 
 
 # Release Cadence
 
-## Target Window
+## Active Phase (Video 01 through Video 13 - Aug 25 through Nov 17)
+
+**Long form: strictly weekly, every Tuesday.** All 13 Arc 1 videos on a fixed
+schedule - see `halloween-2026-release-calendar.md` for exact dates and script
+deadlines. This is a deliberate departure from the steady-state target below,
+chosen to build audience through the Halloween season while horror content
+has real seasonal discovery advantage.
+
+**Short form: ramps alongside**, from 2/week at launch up to 4-5/week during
+the Sep 29-Oct 24 peak window, tapering as needed once Arc 1 concludes.
+
+This pace only holds if scripts stay one production cycle ahead of their
+release slot - see the calendar doc's script deadline column. Scripting
+capacity, not shooting/editing capacity, is the actual bottleneck at this
+cadence.
+
+## Steady-State Target (resumes after Video 13 / Arc 2)
 
 One video every three to six weeks.
 
-## Why This Works
+## Why the Steady-State Approach Works (for Arc 2 and beyond)
 
 - Lore channels with strong world-building retain audiences across long gaps
 - Watch time per video is more algorithmically valuable than upload frequency at this scale
 - The gap between uploads becomes part of the narrative (especially post-Video 13)
 - Quality production cannot be rushed without destroying the aesthetic
 
-## Managing the Gap
+## Managing the Gap (steady-state only - not applicable during the weekly active phase)
 
 Between uploads, use Community Posts to maintain presence.
 These are never casual. They are always in-world.
@@ -305,13 +338,13 @@ Playlists increase session time - viewers auto-play the next video.
 
 # Growth Strategy
 
-## Phase 1 - Establish (Videos 01-03)
+## Phase 1 - Establish (Videos 01-03, Aug 25 - Sep 8)
 
 Goal: prove the format works before investing in outreach.
 Metric target: 500 views per video, 100 subscribers by Video 03.
 These are conservative - if the format lands, expect faster growth.
 
-## Phase 2 - Seed (Videos 04-07)
+## Phase 2 - Seed (Videos 04-07, Sep 15 - Oct 6)
 
 Goal: the algorithm begins to understand and recommend the channel.
 Outreach begins here - not before.
@@ -323,11 +356,19 @@ Outreach begins here - not before.
 - Do not post self-promotion - post lore fragments as if they are real documents
 - Let people discover the channel through the content, not an advertisement
 
-## Phase 3 - Accelerate (Videos 08-13)
+## Phase 3 - Accelerate (Videos 08-13, Oct 13 - Nov 17)
 
 Goal: Video 11 (Recovered Log: Echo-4) is the breakout candidate.
 Pure recovered log format with no narration is highly shareable and clippable.
 This is the video most likely to reach audiences outside the existing subscriber base.
+
+### Halloween Day (Oct 31) Note
+
+Halloween itself falls between Video 10 (Tue Oct 27) and Video 11 (Tue Nov 3) -
+no long-form video is scheduled to land on Oct 31 itself. Do not force a video
+onto that date at the cost of quality. Instead, treat Oct 31 as a standalone
+Community Post / shorts moment - see `halloween-2026-release-calendar.md` for
+the specific piece planned for that day.
 
 ### Video 11 Distribution Push
 
@@ -335,7 +376,7 @@ This is the video most likely to reach audiences outside the existing subscriber
 - Post a single frame from the recovered photograph to Reddit with no explanation
 - Let the community surface the video - do not post it directly
 
-## Phase 4 - Payoff (Post-Video 13)
+## Phase 4 - Payoff (Post-Video 13, after Nov 17)
 
 The channel silence after Video 13 is a growth event, not a gap.
 The community will post theories, compile seed evidence, and create response content.
@@ -414,7 +455,7 @@ Viewers need to be invested in the world before they will pay for deeper access.
 
 ## Before Launch
 
-- [ ] Three videos produced and ready
+- [ ] Video 01, Short 1, and Short 2 produced and ready (compressed minimum for the active push)
 - [ ] Channel art complete
 - [ ] All Arc 1 First Phantom seeds locked in writing
 - [ ] Pre-1968 canon date chosen
@@ -428,19 +469,22 @@ Viewers need to be invested in the world before they will pay for deeper access.
 - [ ] Channel description written in-world
 - [ ] About section written in-world
 
-## Ongoing
+## Ongoing (Active Phase, Aug 25 - Nov 17)
 
+- [ ] Script deadlines tracked against `halloween-2026-release-calendar.md` - scripts must stay ~10 days ahead of their video's release date
 - [ ] Community Post between every upload
 - [ ] Pinned comment set within 1 hour of each upload
 - [ ] Tags reviewed for each video before publish
 - [ ] Watch time analytics reviewed after each video - adjust pacing if retention drops early
+- [ ] Shorts cadence checked weekly against the ramp schedule (2/week -> 5/week)
 
-## Post-Video 13
+## Post-Video 13 (after Nov 17)
 
 - [ ] Silence gap planned (2-4 weeks)
 - [ ] Arc 2 first video in production before Video 13 publishes
 - [ ] Community Post silence during gap (no posts - the channel is quiet)
 - [ ] Arc 2 launch: no announcement, no explanation - the Archivist simply returns
+- [ ] Steady-state (3-6 week) cadence resumes for Arc 2
 
 ---
 

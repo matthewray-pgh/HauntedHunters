@@ -1,5 +1,5 @@
 # Obsidian Frequency — Project Summary & AI Agent Handoff Document
-## Version 3.1 | Complete Session Summary
+## Version 3.6 | Complete Session Summary
 
 ---
 
@@ -23,7 +23,56 @@ unless the user explicitly requests a change.
   illustration across ALL content. HeyGen removed. Runway ML added.
   Short Form Content System rebuilt (v3.0). Launch Batch scripts replaced.
   Tech stack finalized: Midjourney + Runway ML + ElevenLabs + CapCut.
-- v3.1 (this version) — Full canon reconciliation pass. Series Arc Map,
+- v3.6 (this version) — Short-form format system overhauled to v4.0:
+  Classified Transmission (black screen + text) retired entirely;
+  Animated Document Reveal sharply restricted (no more slow pans over
+  paper as a short's primary content). All 34 non-launch shorts
+  (`shorts_batch_02` through `shorts_batch_10`) and Short 01 in
+  `shorts_launch_batch_01.md` reworked accordingly — most Document
+  Reveal entries converted to Location Reveal with a real built scene
+  (new recurring Directorate HQ location, color-accented per faction:
+  cool grey-blue/Wardens, amber/Architects, purple/Threshold
+  Initiative), Classified Transmission entries converted to Location
+  Reveal or Field Dispatch. Note: a human figure (Dispatcher, Field
+  Operative) is NOT required in every short — Entity Reveal, Location
+  Reveal, and Illustrated Incident Fragment carry personality without
+  one. The requirement is genuine visual interest, not literal human
+  presence. `short_form_content_system.md` bumped to v4.0 with full
+  format library and revision notes.
+- v3.5 — All 34 remaining shorts (Sep 1 through Oct 31,
+  per `halloween-2026-release-calendar.md`) now have full production
+  scripts: Midjourney prompts, Runway ML motion notes, ElevenLabs
+  direction, CapCut assembly, captions. Combined with Shorts 01-02
+  (already complete in `shorts_launch_batch_01.md`), all 36 shorts from
+  launch through Halloween Day are now production-ready. Two structural
+  notes worth knowing: (1) reused long-form Midjourney prompts were
+  regenerated at `--ar 9:16` rather than copied verbatim, since the
+  source prompts are horizontal/portrait-document ratios; (2) the
+  shared-signatory ARG seed now has three additional short-form
+  moments (Oct 17, Oct 23, Oct 28) beyond its three long-form
+  appearances, with Oct 28 explicitly flagged as needing pixel-identical
+  matching across all three composited images before publishing.
+- v3.4 — All 13 Arc 1 scripts complete (Videos 01–13,
+  see completed documents table). Video 13 (File Zero) script includes
+  two flagged interpretive choices for creator review: dropping the
+  standard pre-roll/post-roll watermark for this video only, and tying
+  File Zero's File ID to Video 01's previously-unassigned personnel
+  file 0000. Neither is stated outright in the video pipeline outline —
+  both are read as the most consistent extension of it. Two
+  color-palette gaps remain open (Orange for Video 04, cold blue-grey
+  `#5A6470` for the Video 08/09/10 shared signatory) — see Open
+  Questions. Next work on this project moves to production (asset
+  building, recording, assembly) or Arc 2 planning, not further Arc 1
+  scripting.
+- v3.3 — Scripts written through Video 12 (see completed
+  documents table). Pre-1968 canon date locked to 1919, closing the last
+  Critical open question blocking Video 12 production. Storyboards
+  discontinued as a default after Video 01 (decision recorded below).
+  Two color-palette gaps remain open (Orange for Video 04, cold
+  blue-grey `#5A6470` for the Video 08/09/10 shared signatory).
+- v3.2 — Storyboards discontinued after Video 01 (see decision below).
+  Scripts written through Video 07.
+- v3.1 — Full canon reconciliation pass. Series Arc Map,
   Arc 1 Content Inventory, and First Phantom Seed Map rewritten to match
   Video Pipeline v2.0's 13-video roster (previously flagged as a known
   inconsistency — now resolved). Hunter roles locked at 5 (Cryptozoologist
@@ -289,14 +338,12 @@ maps, no architectural records confirm existence. Classification:
 Crimson-Level Veil Event.
 
 ## Master Timeline
+- 1919 — [BLANK ENTRY — never filled in, not redacted]. Locked as the
+  pre-1968 canon anchor date (creator decision, this version). No
+  content assigned within Arc 1 by design; reserved for Arc 2.
 - 1968 — Black Vein Collapse
 - 1983 — Ashfall Experiments
 - 1994 — Station 13 Incident
-- PRE-1968 — [BLANK ENTRY — never filled in, not redacted]
-  This blank entry is a key ARG element. A specific date exists but
-  has NOT YET been chosen by the creator. STILL UNRESOLVED as of this
-  version. Must be chosen before Video 12 production begins. Becomes
-  a canon anchor for Arc 2.
 
 ## Regional Progression
 - Region 1: Rural Pennsylvania — starting region, grounded horror,
@@ -574,11 +621,57 @@ channel-specific references already completed by creator in repo.
 | First Phantom Seed Map | media/youtube/arc-1-opened-file/first-phantom-thread-seed-map.md | Complete (13-video roster) |
 | Visual Style Guide + Midjourney Prompts | docs/visual-style-guide.md | Complete, brand sheet regeneration not yet executed |
 | Video 01 Script v2.0 | media/scripts/script_v01_the_veil_explained.md | Complete |
-| Video 01 Storyboard | media/storyboard/storyboard_v01_the_veil_explained.md | Complete |
+| Video 01 Storyboard | media/storyboard/storyboard_v01_the_veil_explained.md | Complete — last storyboard produced, see decision below |
+| Video 02 Script | media/scripts/script_v02_the_conductor.md | Complete, no storyboard (decision below) |
+| Video 03 Script | media/scripts/script_v03_black_vein_collapse.md | Complete, no storyboard (decision below) |
+| Video 04 Script | media/scripts/script_v04_miners_echo.md | Complete, no storyboard (decision below) |
+| Video 05 Script | media/scripts/script_v05_ashfall_experiments.md | Complete, no storyboard (decision below) |
+| Video 06 Script | media/scripts/script_v06_station_13.md | Complete, no storyboard (decision below) |
+| Video 07 Script | media/scripts/script_v07_hollow_king.md | Complete, no storyboard (decision below) |
+| Video 08 Script | media/scripts/script_v08_the_wardens.md | Complete, no storyboard (decision below) — defines locked shared-signatory spec for V09/V10 |
+| Video 09 Script | media/scripts/script_v09_the_architects.md | Complete, no storyboard (decision below) — signatory seed 2nd of 3, must match V08 exactly |
+| Video 10 Script | media/scripts/script_v10_threshold_initiative.md | Complete, no storyboard (decision below) — signatory seed 3rd/final appearance, closes the shared-founder thread, no explicit reveal line |
+| Video 11 Script | media/scripts/script_v11_echo4_recovered_log.md | Complete, no storyboard (decision below) — pure recovered log format, no Archivist narration in body, breakout-candidate video |
+| Video 12 Script | media/scripts/script_v12_timeline_gap.md | Complete, no storyboard (decision below) — pre-1968 canon date locked to 1919 |
+| Video 13 Script | media/scripts/script_v13_file_zero.md | Complete, no storyboard (decision below) — Arc 1 finale, ALL 13 SCRIPTS NOW COMPLETE |
+| Shorts Batch 02 (Sep 1-7) | media/shorts/shorts_batch_02_sep01-07.md | Complete — full production scripts, 2 shorts |
+| Shorts Batch 03 (Sep 8-14) | media/shorts/shorts_batch_03_sep08-14.md | Complete — full production scripts, 3 shorts |
+| Shorts Batch 04 (Sep 15-21) | media/shorts/shorts_batch_04_sep15-21.md | Complete — full production scripts, 3 shorts |
+| Shorts Batch 05 (Sep 22-28) | media/shorts/shorts_batch_05_sep22-28.md | Complete — full production scripts, 3 shorts |
+| Shorts Batch 06 (Sep 29-Oct 5) | media/shorts/shorts_batch_06_sep29-oct05.md | Complete — full production scripts, 4 shorts |
+| Shorts Batch 07 (Oct 6-12) | media/shorts/shorts_batch_07_oct06-12.md | Complete — full production scripts, 4 shorts |
+| Shorts Batch 08 (Oct 13-19) | media/shorts/shorts_batch_08_oct13-19.md | Complete — full production scripts, 4 shorts |
+| Shorts Batch 09 (Oct 20-24) | media/shorts/shorts_batch_09_oct20-24.md | Complete — full production scripts, 4 shorts |
+| Shorts Batch 10 (Oct 25-31) | media/shorts/shorts_batch_10_oct25-31.md | Complete — full production scripts, 6 shorts + Oct 31 Community Post handling |
 | Short Form Content System v3.0 | media/shorts/short_form_content_system.md | Complete |
 | Shorts Launch Batch 01 | media/shorts/shorts_launch_batch_01.md | Complete |
 | Entity Roster (8 entities) | canon/entities/ (HH-013 through HH-021, no HH-018) | Complete |
-| This Handoff Document | docs/ai-agent-handoff.md | v3.1 (this version) |
+| Halloween 2026 Release Calendar | media/youtube/arc-1-opened-file/halloween-2026-release-calendar.md | Complete — dated source of truth for the Aug 25-Nov 17 active push |
+| This Handoff Document | docs/ai-agent-handoff.md | v3.6 (this version) |
+
+## Decision (Locked, v3.2) — Storyboards Discontinued After Video 01
+
+Standalone storyboard documents (scene-by-scene timecodes + CapCut layer
+stack, as seen in `storyboard_v01_the_veil_explained.md`) are **no longer
+produced for Video 02 onward**, effective this version. Reasoning:
+
+- At the Halloween-push weekly long-form cadence (see
+  `halloween-2026-release-calendar.md`), scripting capacity is the
+  production bottleneck, not CapCut assembly clarity.
+- The script format itself (see Video 02-04) already carries most of what
+  the storyboard added — Production Notes, Visual Approach, transition
+  rules, and a full Production Checklist with audio levels and hold
+  timings. The remaining gap (explicit per-scene timecodes and an explicit
+  layer-stack map) matters most on higher-complexity, multi-visual-system
+  videos and is optional there, not a default requirement.
+- Videos 02 and 03 were already produced without a storyboard being
+  written before this decision was formalized — this entry retroactively
+  documents that as intentional, not an oversight.
+
+If a specific future video (complexity 4-5/5, several interleaving visual
+systems) would clearly benefit from a full storyboard, it can still be
+written case-by-case — this is not a hard ban, just a change to the
+default.
 
 ## Previously Flagged Inconsistency — Now Resolved
 As of v3.1, the Series Arc Map, Arc 1 Content Inventory, and First Phantom
@@ -592,8 +685,15 @@ other documents now index it correctly instead of duplicating stale data.
 # Open Questions — Requires Creator Decision
 
 ## Critical (Blocks Production)
-1. **Pre-1968 canon date** — the blank timeline entry for Video 12.
-   Must be chosen and locked before that video's production.
+1. **Cold blue-grey redaction color** — needed for the shared signatory
+   seed appearing in Videos 08, 09, and 10 (`script_v08_the_wardens.md`
+   defines the spec, suggested value `#5A6470`). Must be confirmed and
+   added to `docs/visual-style-guide.md` — this has now shipped in three
+   scripts (08, 09, 10) using the suggested value; confirm or revise
+   before final asset production.
+2. **Orange classification color** — needed for Video 04
+   (`script_v04_miners_echo.md`). Same open item as before, now blocking
+   two videos' worth of document design instead of one.
 
 ## Important
 2. **Brand sheet regeneration** — Midjourney prompts exist in Visual

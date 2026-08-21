@@ -14,11 +14,12 @@ Midjourney → Runway ML → ElevenLabs → CapCut
 
 ---
 
-# SHORT 01 — Classified Transmission
+# SHORT 01 — Field Dispatch
 ## "Breach Confirmed"
 
 ### Format
-Classified Transmission
+Field Dispatch (revised from original black-screen Classified
+Transmission — see `short_form_content_system.md` v4.0 revision notes)
 
 ### Connects To
 The Veil / Veil Breaches / The Hunters Directorate (Video 01)
@@ -27,51 +28,85 @@ The Veil / Veil Breaches / The Hunters Directorate (Video 01)
 15–20 seconds
 
 ### Why This First
-Lowest production barrier in the system — no Midjourney or Runway ML
-needed. Tests your ElevenLabs and CapCut workflow before adding image
-generation complexity. Establishes the Directorate's institutional voice
-on short-form platforms immediately.
+Establishes the Dispatcher — a recurring character reused across every
+Field Dispatch short from here forward. Tests the full Midjourney →
+Runway ML → ElevenLabs → CapCut pipeline immediately rather than
+deferring image generation to a later short.
 
 ---
 
 ### Production Notes
 
-**ElevenLabs Voice Treatment**
-Two voices needed for this clip:
-- Voice A (Dispatcher): flat, institutional, slightly degraded —
-  sounds like a Directorate internal comms system
-- Voice B (Field Operative): slightly more human, strained,
-  processing what they're hearing
+**Midjourney Image Generation**
+```
+view from behind of a seated figure at an institutional radio comms desk,
+partial view - back of head and shoulders only, face never visible,
+worn headset resting around neck, cigarette held loosely in one hand,
+thin curl of smoke rising catching the light, ashtray visible on desk edge,
+single practical desk lamp casting warm amber pool of light on control panel,
+rest of room in deep shadow, analog radio equipment with glowing dials,
+reel-to-reel recorder visible, worn government-issue furniture,
+faint dust particles suspended in lamp light, night shift atmosphere,
+painterly dark illustration style, detailed brushwork, textured paint surface,
+cinematic composition, high contrast lighting, teal and amber palette,
+dark background #1A1D1F, teal shadows #2B3D3D, brass warmth #8C6E4A,
+no Victorian elements, no fantasy armor, no Gothic architecture
+--ar 9:16 --style raw --stylize 800
+```
 
-Heavy radio processing on both — narrow frequency range, static
-bursts between lines, slight pitch instability on Voice B.
+**Runway ML Animation**
+- Motion: thin curl of cigarette smoke rising slowly through the lamp
+  light, smoke drifts and dissipates gradually, dust particles suspended
+  in the light beam move very subtly
+- Figure remains completely still and motionless — no head or shoulder
+  movement
+- Duration: 15–20 seconds (this short runs the animation full length,
+  unlike most Entity Reveal shorts which cut before the loop completes)
+
+**ElevenLabs Voice Treatment**
+Two voices:
+- Voice A (Dispatcher): flat, institutional, slightly degraded — sounds
+  like a Directorate internal comms system. This is the character on
+  screen.
+- Voice B (Field Operative): slightly more human, strained, processing
+  what they're hearing. Off-screen — heard only through the radio, never
+  shown.
+
+Heavy radio processing on both — narrow frequency range, static bursts
+between lines, slight pitch instability on Voice B.
 
 **CapCut Assembly**
-- Pure black background throughout
-- Classification stamp top center: OBSIDIAN FREQUENCY / TRANSMISSION
-  INTERCEPTED / [DATE REDACTED]
-- Text appears word by word in pale off-white (#DCE6D6) as audio plays —
-  not instant, timed to voice
-- Static burst visual effect between the two voices
+- Dispatcher animation plays throughout — this is the entire visual,
+  no black screen at any point
+- Classification stamp small, top corner (not center — keep it
+  secondary to the character shot): TRANSMISSION INTERCEPTED / [DATE
+  REDACTED]
+- Text appears word by word in pale off-white (#DCE6D6), positioned in
+  the lower third so it doesn't compete with the Dispatcher's smoke/lamp
+  light in frame
+- Static burst as a brief visual glitch over the image (not a cut away
+  from it) between the two voices
 - Ambient radio static runs under entire clip at low volume
-- Hard cut to black and silence before transmission completes
+- Hold on the Dispatcher, silent, for the final 2 seconds after the
+  last line — no hard cut to black immediately, let the character sit
+  in the silence first
 - No music
 
 ---
 
 ### SCRIPT
 
-**[BLACK SCREEN]**
-**[Classification stamp fades in — top center]**
-**[Text appears word by word as audio plays]**
+**[DISPATCHER ANIMATION PLAYS THROUGHOUT]**
+**[Classification stamp fades in — top corner]**
+**[Text appears word by word as audio plays, lower third]**
 
 **DISPATCHER (V.O. — flat, institutional, radio processed)**
 
 Echo-Seven, confirm your position.
 
-**[STATIC BURST — visual and audio]**
+**[STATIC BURST — brief visual glitch over the image, not a cutaway]**
 
-**FIELD OPERATIVE (V.O. — strained, radio processed)**
+**FIELD OPERATIVE (V.O. — strained, radio processed, heard only)**
 
 We're at the threshold. Level Four confirmed.
 Something is — the geometry isn't —
@@ -82,24 +117,27 @@ Something is — the geometry isn't —
 
 Echo-Seven. Confirm status.
 
-**[LONG SILENCE — three seconds]**
+**[LONG SILENCE — three seconds, Dispatcher animation continues, smoke
+still drifting]**
 
 **FIELD OPERATIVE (V.O.) — barely audible through static**
 
 It was already here.
 
+**[DISPATCHER HOLDS, STILL, SILENT — 2 SECONDS]**
 **[HARD CUT TO BLACK]**
 **[SILENCE]**
 
 ---
 
 ### On-Screen Text (CapCut)
-Classification stamp throughout.
-Word-by-word text matching audio — both voices use same pale text,
-static burst between them is purely visual/audio, no text change.
+Classification stamp, small, top corner, throughout.
+Word-by-word text matching audio, lower third — both voices use same
+pale text, static burst is purely visual/audio, no text change.
 
 Final line "It was already here" appears in text simultaneously with
-audio — then both cut. Text does not linger after audio ends.
+audio — then clears while the Dispatcher holds silently for 2 seconds
+before the cut. Text does not linger through that final hold.
 
 ### Caption (Platform Text)
 ```
@@ -119,7 +157,8 @@ ECHO-SEVEN: UNACCOUNTED
 None — establishing short. "It was already here" echoes the Black Vein
 survivor testimony ("it was already there") but is too early in the
 channel's life to function as a true ARG seed. Plant this connection
-intentionally in a later Classified Transmission once Video 03 is live.
+intentionally in a later short once Video 03 is live (see Short 06,
+"It Was Already There," in `shorts_batch_03_sep08-14.md`).
 
 ---
 ---
