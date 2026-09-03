@@ -115,29 +115,46 @@ entity image itself rather than a document shot.
 ### Production Notes
 
 **Midjourney Image Generation**
-Reuses V02's Image 01 description with a variation — the static/signal
-noise dissolving the figure's edges is pushed further here, since the
-short's text is specifically about that mimicry mechanic:
+Same entity and source description as V02's Image 01, but deliberately
+reframed and recomposed so this short does NOT read as the same clip as
+Short 03. Short 03 is a wide platform shot with the figure small in deep
+space; this one pushes in close and makes the figure look like a degraded
+broadcast image of a person. A wall PA speaker and an illuminated transit
+sign are added to the frame to sell the "broadcast" idea:
 
 ```
-transit conductor silhouette made of static and shadow, standing on an empty
-subway platform, form actively dissolving into television static and signal
-noise at the edges more heavily than a resting state — mid-flicker,
-no distinct facial features, suggestion of a uniform and cap through
-darkness rather than clear detail, fluorescent platform lighting flickering,
-teal and sickly green color palette with faint amber flicker, painterly
-dark illustration, concept art style, highly detailed brushwork, textured
-paint surface visible, cinematic dark fantasy illustration, in the style
-of a dark graphic novel cover, paranormal entity documentation aesthetic,
-deep shadow, nothing fully resolved, dread through implication
+transit conductor silhouette made of static and shadow, framed close on the
+head and shoulders, upper body filling most of the vertical frame, standing
+on an empty subway platform, a wall-mounted PA speaker and a flickering
+illuminated transit sign visible behind the figure, form heavily broken up
+by television static and rolling signal noise — the figure looks like a
+degraded broadcast image of a person rather than a person, no distinct facial
+features, suggestion of a uniform collar and cap brim through darkness rather
+than clear detail, fluorescent platform lighting flickering, teal and sickly
+green color palette with faint amber flicker, horizontal scanline banding
+across the whole frame, painterly dark illustration, concept art style,
+highly detailed brushwork, textured paint surface visible, cinematic dark
+fantasy illustration, in the style of a dark graphic novel cover, paranormal
+entity documentation aesthetic, deep shadow, nothing fully resolved, dread
+through implication
 --ar 9:16 --style raw --stylize 800
 ```
+
+Generate 4 variations. Select the one where the PA speaker and transit
+sign read clearly, the figure looks most like a broadcast artifact, and
+the composition is obviously different from Short 03's wide platform crop.
 
 **Runway ML Animation**
 - Motion: static/signal noise flickering more actively across the figure
   than Short 03 — this short is about the mimicry mechanic, so the
   static itself should feel like it's "broadcasting"
+- Add a slow horizontal scanline roll and one or two vertical-hold
+  "slips" — the whole image jumps and re-settles like a failing broadcast
+  signal. Short 03 has no scanline roll and no slips; this is the main
+  motion cue that separates the two.
+- Speed: slow base drift, punctuated by the signal slips
 - Duration: 8–10 seconds
+- Do NOT add: figure movement, platform camera motion
 
 **ElevenLabs Audio**
 No narration. Transit ambient, low, with a brief degraded PA
@@ -146,9 +163,13 @@ intelligible, just enough to unsettle.
 
 **CapCut Assembly**
 - Entity animation plays
+- Broadcast-distortion layer over the whole clip that Short 03 does NOT
+  use: fine scanlines, a subtle RGB/chroma split, and occasional
+  single-frame static bursts landing on the Runway signal slips
 - Text overlay fades in at 5 seconds: *"It mimics transit broadcasts."*
+  — text chroma-splits/glitches on entry to match the distortion layer
 - Second line after a beat: *"Not the announcer. The broadcast."*
-- Hard cut to black
+- Hard cut to black on the last signal slip
 
 ### On-Screen Text
 ```
