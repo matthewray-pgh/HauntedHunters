@@ -17,9 +17,9 @@ identity — see `release-strategy.md` Philosophy section for the full
 reasoning and what resumes after this push ends.
 
 **The real constraint at this pace is scripting, not production.** Scripts
-for Videos 01–03 are done. Every video after that needs a finished script
-roughly 10 days ahead of its release date or the whole cadence collapses.
-The "Script needed by" column below is the actual thing to track.
+for all 13 long-form videos are complete. The shorts schedule below is
+kept in sync with the individual `shorts_batch_*.md` files — see the
+Maintenance Notes at the bottom for how that sync is now maintained.
 
 ---
 
@@ -32,19 +32,19 @@ The "Script needed by" column below is the actual thing to track.
 | 03 | Tue Sep 8 | The Black Vein Collapse | ✅ Ready | — |
 | 04 | Tue Sep 15 | HH-016: The Miner's Echo | ✅ Ready | — |
 | 05 | Tue Sep 22 | The Ashfall Experiments | ✅ Ready | — |
-| 06 | Tue Sep 29 | Station 13: The Full Incident | ⚠️ Needed | ~Sep 19 |
-| 07 | Tue Oct 6 | The Hollow King | ⚠️ Needed | ~Sep 26 |
-| 08 | Tue Oct 13 | The Wardens | ⚠️ Needed | ~Oct 3 |
-| 09 | Tue Oct 20 | The Architects | ⚠️ Needed | ~Oct 10 |
-| 10 | Tue Oct 27 | The Threshold Initiative | ⚠️ Needed | ~Oct 17 |
-| 11 | Tue Nov 3 | Recovered Log: Echo-4 | ⚠️ Needed | ~Oct 24 |
-| 12 | Tue Nov 10 | The Timeline Has a Gap | ⚠️ Needed | ~Oct 31 |
-| 13 | Tue Nov 17 | File Zero (ARG payoff) | ⚠️ Needed | ~Nov 7 |
+| 06 | Tue Sep 29 | Station 13: The Full Incident | ✅ Ready | — |
+| 07 | Tue Oct 6 | The Hollow King | ✅ Ready | — |
+| 08 | Tue Oct 13 | The Wardens | ✅ Ready | — |
+| 09 | Tue Oct 20 | The Architects | ✅ Ready | — |
+| 10 | Tue Oct 27 | The Threshold Initiative | ✅ Ready | — |
+| 11 | Tue Nov 3 | Recovered Log: Echo-4 | ✅ Ready | — |
+| 12 | Tue Nov 10 | The Timeline Has a Gap | ✅ Ready | — |
+| 13 | Tue Nov 17 | File Zero (ARG payoff) | ✅ Ready | — |
 
 **Halloween Day (Oct 31) note:** falls between Video 10 and Video 11 — no
-long-form video lands on Halloween itself. Do not compress the schedule to
-force one. Instead, Oct 31 gets a standalone Community Post / shorts moment
-(see Phase 4 below).
+long-form video lands on Halloween itself. Instead, Oct 31 gets a
+standalone Community Post (see below) — the Echo-4 audio fragment,
+surfaced ahead of Video 11's Nov 3 release.
 
 **Post-Video 13:** Arc 1 concludes Nov 17. Per `release-strategy.md`, the
 channel then goes quiet for a planned 2–4 week silence gap before Arc 2,
@@ -54,77 +54,156 @@ and steady-state (3–6 week) cadence resumes from there.
 
 # Shorts — Ramping Alongside
 
-## Phase 1: Launch Week (Aug 25 – 31), 2 shorts total
+**Every entry below is sourced from its `shorts_batch_*.md` production
+script, not reconstructed from memory.** Entries marked ⚠️ GAP could not
+be located in a search pass and need a direct pull from their batch file
+before this calendar can be called fully reconciled — do not invent
+content for these; check the source file.
 
-| Date | Short | Format | Canon |
-|---|---|---|---|
-| Wed Aug 26 | Breach Confirmed | Classified Transmission | Veil/Directorate |
-| Fri Aug 28 | The Hollow Boy — farmhouse doorway | Animated Entity Reveal | HH-014, Video 01-adjacent |
+## Launch Week (Aug 25–28) — 2 shorts
 
-## Phase 2: Foundation (Sep 1 – 21), ramping 2 → 3/week
-
-| Date | Short | Format | Canon | Note |
+| Date | Short | Format | Canon | Source |
 |---|---|---|---|---|
-| Tue Sep 2 | The Hollow Boy — farmhouse doorway (if not already used) | Animated Entity Reveal | HH-014 | — |
-| Fri Sep 5 | Directorate frequency check | Classified Transmission | Veil/Directorate | Reuses Short 01 workflow |
-| Tue Sep 9 | Region 1 breach site, daylight | Animated Location Reveal | Video 01 | New location, same lore |
-| Thu Sep 11 | Directorate intake form, redacted | Animated Document Reveal | Institutional flavor | ARG seed candidate |
-| Sat Sep 13 | Unlabeled silhouette — comms tower | Animated Entity Reveal | Teaser for Video 02 | Vague on purpose, 2 days before V02 |
-| Wed Sep 16 | The Conductor — station platform silhouette | Animated Entity Reveal | Video 02 | Full reveal now safe |
-| Fri Sep 18 | Conductor incident report fragment | Animated Document Reveal | Video 02 | — |
-| Sun Sep 20 | Black Vein mine entrance, night | Animated Location Reveal | Teaser for Video 03 | — |
+| Wed Aug 26 | Breach Confirmed | Field Dispatch | Veil/Directorate | `shorts_launch_batch_01.md` |
+| Fri Aug 28 | The Hollow Boy — farmhouse doorway | Animated Entity Reveal | HH-014 | `shorts_launch_batch_01.md` |
 
-## Phase 3: Halloween Ramp (Sep 22 – Oct 24), ramping 3 → 5/week
+## Week of Sep 1–7 — Batch 02 (2 shorts per batch header)
 
-**Pre-Video-03 stretch:**
+| Date | Short | Format | Canon | Source |
+|---|---|---|---|---|
+| Thu Sep 3 | The Conductor — Station Platform | Animated Entity Reveal | Video 02 (HH-013), full reveal now safe | `shorts_batch_02_sep01-07.md` |
+| ⚠️ GAP | Short 04 — not located | — | — | `shorts_batch_02_sep01-07.md` |
 
-| Date | Short | Format | Note |
-|---|---|---|---|
-| Mon Sep 22 | Mining crew radio check, 1968 | Classified Transmission | Black Vein atmosphere, no full reveal |
-| Wed Sep 24 | Black Vein incident report, pg. 2 | Document Reveal | Continues Sep 20 thread |
-| Fri Sep 26 | Appalachian ridge, entrance sealed | Location Reveal | — |
-| Sun Sep 28 | Directorate memo referencing cover-up | Document Reveal | Institutional, not a new entity |
-| Tue Sep 29 | "1968: miners descend, none return" | Illustrated Incident Fragment | Richest lore format |
-| Thu Oct 1 | Federal recovery team, last transmission | Classified Transmission | — |
-| Sat Oct 3 | Directorate formation memo, 1968 | Document Reveal | Direct lead-in to Video 03 |
-| Mon Oct 5 | Black Vein mine entrance, extended cut | Location Reveal | Final fragment before drop |
+## Week of Sep 8–14 — Batch 03 (3 shorts per batch header)
 
-**Post-Video-03 stretch:**
+| Date | Short | Format | Canon | Source |
+|---|---|---|---|---|
+| Wed Sep 9 | Black Vein Mine Entrance, Night | Animated Location Reveal | Video 03, site sealed | `shorts_batch_03_sep08-14.md` |
+| Fri Sep 11 | "It Was Already There" | Illustrated Incident Fragment | Video 03 testimony, pays off Short 01's tease | `shorts_batch_03_sep08-14.md` |
+| ⚠️ GAP | Short 07 — not located | — | — | `shorts_batch_03_sep08-14.md` |
 
-| Date | Short | Format | Note |
-|---|---|---|---|
-| Wed Oct 7 | Miner's Echo — tunnel silhouette | Animated Entity Reveal | HH-016, safe to reveal now |
-| Fri Oct 9 | Black Vein survivor testimony | Illustrated Incident Fragment | Echoes "It was already here" from Short 01 |
-| Sun Oct 11 | 1968 incident report, redacted page | Document Reveal | ARG seed |
+## Week of Sep 15–21 — Batch 04 (3 shorts, V04 live Tue Sep 15)
 
-**Oct 13 – 24 (peak ramp, 4–5/week):** not pre-scripted day-by-day this far
-out — hold to the format rotation (Entity / Location / Document /
-Transmission / Illustrated) plus one ARG seed per 3–4 shorts, drawing new
-concepts from each week's unlocked video (Wardens, Architects, Threshold
-Initiative) per the Canon Connections map in `short_form_content_system.md`.
+| Date | Short | Format | Canon | Source |
+|---|---|---|---|---|
+| Wed Sep 16 | The Miner's Echo — Mid-Loop | Animated Entity Reveal | Video 04 (HH-016) | `shorts_batch_04_sep15-21.md` |
+| Fri Sep 18 | Intake Processing, After Hours | Animated Location Reveal | Institutional flavor, ARG-seed candidate 🔑 | `shorts_batch_04_sep15-21.md` |
+| Sun Sep 20 | Unlabeled Facility Door | Animated Location Reveal | Vague teaser for Video 05 — no facility name given | `shorts_batch_04_sep15-21.md` |
 
-## Phase 4: Halloween Week (Oct 25 – 31), daily push
+## Week of Sep 22–28 — Batch 05 (3 shorts, V05 live Tue Sep 22)
 
-- Daily shorts Oct 25–30, rotating formats, drawing on Video 10 (Threshold
-  Initiative, released Oct 27) as the freshest unlocked lore.
-- **Oct 31 (Halloween Day):** standalone moment in place of a long-form
-  release. Candidate: an early atmospheric fragment tied to Video 11
-  (Recovered Log: Echo-4, releasing Nov 3) — consistent with that video's
-  existing distribution plan of surfacing fragments via Community Post
-  before the community "discovers" the full video rather than posting it
-  directly (see `release-strategy.md`, Phase 3 Growth Strategy).
+| Date | Short | Format | Canon | Source |
+|---|---|---|---|---|
+| Wed Sep 23 | Ashfall Research Facility Corridor | Animated Location Reveal | Video 05, pays off Short 10's door tease | `shorts_batch_05_sep22-28.md` |
+| Fri Sep 25 | "Someone Approved This" | Animated Location Reveal | V05's closing annotation line — do not resolve; V09 answers this Oct 22 | `shorts_batch_05_sep22-28.md` |
+| Sun Sep 27 | Undocumented Station Discovered | Animated Location Reveal | Vague teaser for Video 06 — no year/entity name given | `shorts_batch_05_sep22-28.md` |
+
+## Week of Sep 29–Oct 5 — Batch 06 (4 shorts, V06 live Tue Sep 29, peak ramp begins)
+
+| Date | Short | Format | Canon | Source |
+|---|---|---|---|---|
+| Wed Sep 30 | Station 13 Platform — HH-013 Cross-Reference | Animated Location Reveal | Video 06, pays off Short 13's tease | `shorts_batch_06_sep29-oct05.md` |
+| Thu Oct 1 | Echo-4 Deployment Orders Fragment | Field Dispatch | Video 06 — no outcome shown; V11's payoff | `shorts_batch_06_sep29-oct05.md` |
+| ⚠️ GAP | Short 16 — not located | — | — | `shorts_batch_06_sep29-oct05.md` |
+| ⚠️ GAP | Short 17 — not located | — | — | `shorts_batch_06_sep29-oct05.md` |
+
+## Week of Oct 6–12 — Batch 07 (4 shorts, V07 live Tue Oct 6)
+
+| Date | Short | Format | Canon | Source |
+|---|---|---|---|---|
+| Wed Oct 7 | The Hollow King — Treeline Silhouette | Animated Entity Reveal | Video 07 (HH-020), no camera motion at all | `shorts_batch_07_oct06-12.md` |
+| Fri Oct 9 | "It Did Not Need To" | Animated Entity Reveal | Tunnel Four payoff, first seeded Video 03 | `shorts_batch_07_oct06-12.md` |
+| Sat Oct 10 | Obsidian Classification Stamp | Animated Entity Reveal | Video 07, first use of purple `#5F4B6E` accent | `shorts_batch_07_oct06-12.md` |
+| Sun Oct 11 | "The One the Breach Opens For" | Animated Location Reveal | Ashfall/Hollow King cross-reference 🔑 | `shorts_batch_07_oct06-12.md` |
+
+## Week of Oct 13–19 — Batch 08 (4 shorts, V08 live Tue Oct 13)
+
+New recurring location this week: Directorate HQ, cool grey-blue accent
+(Wardens).
+
+| Date | Short | Format | Canon | Source |
+|---|---|---|---|---|
+| Wed Oct 14 | "Not Every Threat Has Claws" | Animated Location Reveal | Video 08, HQ exterior | `shorts_batch_08_oct13-19.md` |
+| Fri Oct 16 | Wardens Organizational Chart Fragment | Animated Location Reveal | Video 08 | `shorts_batch_08_oct13-19.md` |
+| ⚠️ GAP | Short 24 — not located | — | — | `shorts_batch_08_oct13-19.md` |
+| ⚠️ GAP | Short 25 — not located (referenced later as "the doorway tease" that Short 26 pays off) | — | — | `shorts_batch_08_oct13-19.md` |
+
+## Week of Oct 20–24 — Batch 09 (4 shorts, V09 live Tue Oct 20, peak bracket closes Oct 24)
+
+Directorate HQ location continues, amber accent (Architects).
+
+| Date | Short | Format | Canon | Source |
+|---|---|---|---|---|
+| Wed Oct 21 | Architects Dossier, Amber Accent | Animated Location Reveal | Video 09, pays off Short 25's doorway tease | `shorts_batch_09_oct20-24.md` |
+| Thu Oct 22 | "I Found Who" | Illustrated Incident Fragment | Ashfall recontextualization — genuine payoff to Sep 25's "Someone Approved This" | `shorts_batch_09_oct20-24.md` |
+| ⚠️ GAP | Short 28 — not located | — | — | `shorts_batch_09_oct20-24.md` |
+| ⚠️ GAP | Short 29 — not located (referenced later as the Threshold Initiative "doorway tease" Short 30 builds on) | — | — | `shorts_batch_09_oct20-24.md` |
+
+**Oct 13–24 peak ramp note:** the old calendar described this window as
+"not pre-scripted day-by-day" — that's now out of date. All of Batches
+08 and 09 are fully scripted; only the two gaps per batch above remain
+unconfirmed by search.
+
+## Week of Oct 25–31 — Batch 10 (Halloween week, daily push, V10 live Tue Oct 27)
+
+Directorate HQ location continues, purple accent (Threshold Initiative).
+Oct 31 is NOT a standard short — see special handling below.
+
+| Date | Short | Format | Canon | Source |
+|---|---|---|---|---|
+| Sun Oct 25 | Threshold Initiative — First Mention | Animated Location Reveal | Builds on Short 29's tease, still no full reveal | `shorts_batch_10_oct25-31.md` |
+| Mon Oct 26 | "Bruised Purple Bleed" | Animated Location Reveal | Close-up on V10's Veil Contamination visual element | `shorts_batch_10_oct25-31.md` |
+| ⚠️ GAP | Short 32 (approx. Tue Oct 27) — not located | — | — | `shorts_batch_10_oct25-31.md` |
+| ⚠️ GAP | Short 33 (approx. Wed Oct 28) — not located | — | — | `shorts_batch_10_oct25-31.md` |
+| ⚠️ GAP | Short 34 (approx. Thu Oct 29) — not located | — | — | `shorts_batch_10_oct25-31.md` |
+| ⚠️ GAP | Short 35 (approx. Fri/Sat Oct 30) — not located | — | — | `shorts_batch_10_oct25-31.md` |
+
+### Oct 31 (Halloween Day) — Special Handling, Not a Standard Short
+
+Per Video 11's own distribution plan: post the Echo-4 audio fragment (30
+seconds) **as a Community Post, not a Shorts upload** — paired with a
+still image (heavily degraded VHS-style Station 13 platform), not a
+blank screen. No caption explanation, no date, no incident name, no
+hashtags beyond the channel tag if required. Let the community surface
+and discuss it rather than promoting it directly. Video 11 itself does
+not publish until Tue Nov 3 — this fragment should raise questions it
+doesn't answer for three more days. Source: `shorts_batch_10_oct25-31.md`.
+
+---
+
+# Shorts/Week Ramp Reference
+
+| Window | Shorts/week |
+|---|---|
+| Aug 25 – Sep 7 | 2/week |
+| Sep 8 – Sep 28 | 3/week |
+| Sep 29 – Oct 24 | 4–5/week (peak) |
+| Oct 25 – Oct 31 | Daily (Halloween week push) |
 
 ---
 
 # Maintenance Notes
 
-- Keep this file, `release-strategy.md`, and `short_form_content_system.md`
-  in sync if dates shift — this file is authoritative for dates, the other
-  two are authoritative for philosophy/format guidance.
+- **The individual `shorts_batch_*.md` files are authoritative for exact
+  shorts dates, titles, and content** — they contain the finished
+  production scripts (Midjourney prompts, Runway motion notes, audio
+  direction, captions). This calendar file is an index that mirrors
+  those files, not an independent source of truth. If this file and a
+  batch doc ever disagree, the batch doc wins, and this file should be
+  corrected to match.
+- **This file previously claimed to be the dates authority while the
+  batch docs existed independently and could drift** — that structure
+  caused a real conflict (Sep 1–7 week) that took a full reconciliation
+  pass to catch. Don't reintroduce that structure. When a batch doc
+  changes, update this file in the same session.
+- Long-form video dates remain this file's own responsibility, since
+  there's no separate per-video "batch doc" equivalent for those.
+- **Known gaps as of this reconciliation (Sep 1, 2026):** Short 04,
+  Short 07, Shorts 16–17, Shorts 24–25, Shorts 28–29, and Shorts 32–35
+  were not located during this pass and are marked ⚠️ GAP above. Pull
+  each directly from its batch file before treating that week as fully
+  confirmed.
 - If a script slips past its "needed by" date, the long-form Tuesday slot
   should move rather than publishing rushed content — check
   `release-strategy.md`'s steady-state philosophy before deciding whether
   to delay or drop a video from the active window.
-- Shorts concepts beyond Oct 24 are intentionally left as a rotation
-  framework, not a fixed list, since they depend on which long-form scripts
-  are actually finished by then.
